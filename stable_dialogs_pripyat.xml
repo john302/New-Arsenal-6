@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="pri_followers_start_dlg_21">
+		<text>Выдвигаемся вдоль по улице. В случае чего - прикроешь.</text>
+	</string>
+	<string id="pri_followers_start_dlg_211">
+		<text>Хорошо.</text>
+	</string>
+	<string id="pri_followers_start_dlg_31">
+		<text>Спасибо Меченый за помощь. Это был тяжелый бой. Мы сделаем здесь привал.\nЕсли пойдешь дальше, то расскажу тебе о местности. Если вернешься назад по переходу и пойдешь направо, то дойдешь до автовокзала. Но там больно местность открытая и небезопасная. \nЕсли же пройти вперед, то окажешься перед гостиницей. Справа от нее база монолита. Те ребята без крыши. \nЗа базой стадион. Мы планировали через него на станцию пробираться. Это все.</text>
+	</string>
+	<string id="pri_followers_start_dlg_311">
+		<text>Спасибо.</text>
+	</string>
+	<string id="pri_followers_start_dlg_41">
+		<text>Спасибо за помощь. Удачи.</text>
+	</string>
+	<string id="pri_followers_start_dlg_411">
+		<text>Пока.</text>
+	</string>
+	<string id="pri_join_monolith_dialog_0">
+                <text>Я хочу вступить в "Монолит"</text>
+	</string>
+        <string id="pri_join_monolith_dialog_check">
+                <text>Ты сильно нам навредил, однако сейчас нам нужны бойцы, да и что-то мне подсказывает, что ты будешь доблестным воином. Ты действительно готов вступить в "Монолит"?</text>
+	</string>
+        <string id="pri_join_monolith_dialog_true">
+                <text>Да, я всё хорошо обдумал.</text>
+	</string>
+	<string id="pri_join_monolith_dialog_wellcome">
+                <text>Хорошо, ты принят в бойцы "Монолита". Получи свою экипировку и советую тебе ознакомиться с нашим Уставом.</text>
+	</string>
+        <string id="pri_join_monolith_dialog_false">
+                <text>Извини, я передумал.</text>
+	</string>
+</string_table>

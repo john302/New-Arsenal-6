@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="actor_break_dialog_0">
+		<text>See you!</text>
+	</string>
+	<string id="actor_help_wounded_0">
+		<text>How are you doing?</text>
+	</string>
+	<string id="actor_help_wounded_1">
+		<text>It sucks, don't you see? We need a first aid kit, or at least a bandage.</text>
+	</string>
+	<string id="actor_help_wounded_11">
+		<text>Take the first aid kit.</text>
+	</string>
+	<string id="actor_help_wounded_111">
+		<text>Thank you, brother, I won't forget this.</text>
+	</string>
+	<string id="actor_help_wounded_12">
+		<text>Take the bandages.</text>
+	</string>
+	<string id="actor_help_wounded_13">
+		<text>Sorry, there's nothing.</text>
+	</string>
+	<string id="actor_help_wounded_131">
+		<text>How do you walk in the zone? You're going to get some kind of contagion, and you can't even cure yourself.</text>
+	</string>
+	<string id="actor_help_wounded_14">
+		<text>Heh, what are you? I'm sorry, I won't give you mine, or I'll be left with nothing.</text>
+	</string>
+	<string id="actor_help_wounded_141">
+		<text>It's your business, but don't think it does you an honor.</text>
+	</string>
+	<string id="hello_dialog_2">
+		<text>Hello!</text>
+	</string>
+	<string id="hello_dialog_3">
+		<text>Hey, bro, help me!</text>
+	</string>
+	<string id="sleep_title_1">
+		<text>How long to sleep?</text>
+	</string>
+	<string id="sleep_title_2">
+		<text>No sleep is required now.</text>
+	</string>
+	<string id="sleep_title_3">
+		<text>Reputation is ruined. Sleep is impossible.</text>
+	</string>
+	<string id="sleep_title_4">
+		<text>To fall asleep, you need to turn off the emitter.</text>
+	</string>
+	<string id="sleep_title_5">
+		<text>To fall asleep, it is necessary to remove radiation from the body.</text>
+	</string>
+</string_table>

@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+   <string id="Antirad">
+      <text>Антирадиационные препараты</text>
+   </string>
+   <string id="Arm-heavy">
+      <text>Тяжёлое сталкеровское снаряжение</text>
+   </string>
+   <string id="Arm-light">
+      <text>Лёгкое сталкеровское снаряжение</text>
+   </string>
+   <string id="Arm-medium">
+      <text>Среднее сталкеровское снаряжение</text>
+   </string>
+   <string id="bandage">
+      <text>Бинт</text>
+   </string>
+   <string id="Binocul">
+      <text>Бинокль</text>
+   </string>
+   <string id="Bread">
+      <text>Хлеб</text>
+   </string>
+   <string id="cit_deadcity_maps_desc">
+      <text>Подробная карта Мёртвого города, содержащая схему расположения позиций наёмников</text>
+   </string>
+   <string id="cit_deadcity_maps_name">
+      <text>Карта Мёртвого города</text>
+   </string>
+   <string id="cit_doctors_key_desc">
+      <text>Ключ Доктора от тайника в Припяти.</text>
+   </string>
+   <string id="cit_doctors_key_short_desc">
+      <text>Ключ Доктора</text>
+   </string>
+   <string id="Conserva">
+      <text>"Радость туриста"</text>
+   </string>
+   <string id="Detect1">
+      <text>Детектор аномалий</text>
+   </string>
+   <string id="Devic">
+      <text>Приборы и устройства</text>
+   </string>
+   <string id="device-PDA">
+      <text>КПК</text>
+   </string>
+   <string id="device-torch">
+      <text>Фонарик</text>
+   </string>
+   <string id="device-torch_m1">
+      <text>Супер-Фонарик</text>
+   </string>
+   <string id="enc_equipment_armors_arm-heavy">
+      <text>Защитный костюм. Вес - 18 кг. Особенности: защищает тело от "студня", "жгучего пуха", большинства аномалий и механических повреждений. Грудная клетка и спина защищены встроенными биометаллическими пластинами. Оборудован герметичным металлопластиковым шлемом и двумя кислородными баллонами. Внимание: при продолжительном использовании приходит в негодность - повреждается и рвётся.</text>
+   </string>
+   <string id="enc_equipment_armors_arm-light">
+      <text>Защитный костюм. Вес - 8 кг. Особенности: защищает тело от воздействия слабых аномалий и механических повреждений. Оборудован кислородной маской. Внимание: при продолжительном использовании приходит в негодность - повреждается и рвётся.</text>
+   </string>
+   <string id="enc_equipment_armors_arm-medium">
+      <text>Защитный костюм. Вес - 12 кг. Особенности: защищает тело от "студня", "жгучего пуха", многих аномалий и механических повреждений. Оборудован герметичным шлемом и кислородным баллоном. Внимание: при продолжительном использовании приходит в негодность - повреждается и рвётся.</text>
+   </string>
+   <string id="enc_equipment_armors_sci2">
+      <text>Защитный скафандр красного цвета с герметичным шлемом. Вес - 11 кг. Особенности: защищает тело от огня, кислот, газов, воздействия разнообразных аномалий, "жгучего пуха" и механических повреждений. Оборудован двумя кислородными баллонами. Внимание: при продолжительном использовании приходит в негодность - повреждается и рвётся.</text>
+   </string>
+   <string id="enc_equipment_devic_binocul1">
+      <text>Армейский портативный бинокль.</text>
+   </string>
+   <string id="enc_equipment_devic_detect1">
+      <text>Дозиметр - устройство, измеряющее дозу или мощность ионизирующего излучения.</text>
+   </string>
+   <string id="enc_equipment_devic_detect2">
+      <text>Устройство, определяющее наличие аномальных полей и возмущений и сообщающее о них звуковым сигналом.</text>
+   </string>
+   <string id="enc_equipment_devic_detect3">
+      <text>Элитный детектор аномалий, изобретённый учёными в Зоне. Определяет не только наличие аномальных полей и возмущений, но также показывает на карте их расположение, сообщает о них звуковым сигналом.</text>
+   </string>
+   <string id="enc_equipment_devic_detect4">
+      <text>Детектор аномалий, используемый группировкой Монолит. Технология производства неизвестна. Преимущества по сравнению с элитным детектором аномалий заключаются в меньшем весе прибора, а также в том, что он может функционировать и как детектор артефактов.</text>
+   </string>
+   <string id="enc_equipment_devic_device-PDA1">
+      <text>Карманный персональный компьютер - незаменимое устройство в Зоне.</text>
+   </string>
+   <string id="enc_equipment_devic_device-torch1">
+      <text>Фонарик с обычной лампой. Весьма полезная вещь в условиях недостаточной освещённости.</text>
+   </string>
+   <string id="enc_equipment_devic_device-torch1_m1">
+      <text>Фонарик с довольно мощной лампой. Весьма полезная вещь при избытке денежных средств.</text>
+   </string>
+   <string id="enc_equipment_energydrink">
+      <text>Отличный энергетический напиток "Non Stop". Содержит кофеин, таурин и мощный витаминный комплекс, снимающие усталость и прибавляющие силы. Не в состоянии сделать даже шаг? Тогда это именно то, что нужно.</text>
+   </string>
+   <string id="enc_equipment_food_bread1">
+      <text>Неизвестно, кто умудряется печь батоны на территории Зоны, однако этот хлеб не заражен и вполне съедобен. Во всяком случае, никто из сталкеров пока не жаловался.</text>
+   </string>
+   <string id="enc_equipment_food_conserva1">
+      <text>Консервы с армейского продовольственного склада. Срок годности вроде бы не истёк.</text>
+   </string>
+   <string id="enc_equipment_food_kolbasa1">
+      <text>Часто за неимением лучшего эта колбаса - смесь курятины и соевого заменителя - завтрак, обед и ужин сталкера.</text>
+   </string>
+   <string id="enc_equipment_food_vodka1">
+      <text>Водка производства компании "NA". Хорошо пьётся, заметно снижает воздействие радиации, однако злоупотреблять ей не следует.</text>
+   </string>
+   <string id="enc_equipment_medi_antirad1">
+      <text>Снижают воздействие радиации на организм.</text>
+   </string>
+   <string id="enc_equipment_medi_bandage1">
+      <text>Перевязочный материал. Помогает остановить кровотечение.</text>
+   </string>
+   <string id="enc_equipment_medi_medkit1">
+      <text>Универсальный медицинский набор. Позволяет справляться с травмами различного вида и степени сложности - ранениями, ожогами, отравлениями и прочим.</text>
+   </string>
+   <string id="enc_equipment_medi_medkit2">
+      <text>Специализированный медицинский набор для борьбы с физическими повреждениями и кровотечением. В него входят компоненты для ускорения свертывания крови, обезболивающие, антибиотики и иммунные стимуляторы.</text>
+   </string>
+   <string id="enc_equipment_medi_medkit3">
+      <text>Медицинский набор, разработанный специально для работы в условиях Зоны. Состав набора подобран как для борьбы с ранениями, так и для вывода радионуклидов из организма. Препятствует развитию лучевой болезни, а также снижает дозу накопленной радиации.</text>
+   </string>
+   <string id="energy_drink_name">
+      <text>Энергетический напиток "Non Stop"</text>
+   </string>
+   <string id="energy_drink_short_name">
+      <text>Энергетический напиток "Non Stop"</text>
+   </string>
+   <string id="enc_equipments_sleeping_bag">
+      <text>Предмет походного быта предназначенный для отдыха и сна. Спальный мешок обеспечивает хорошую изоляцию от холода, а также дополнительную амортизацию.</text>
+   </string>
+   <string id="enc_equipments_cat_bag">
+      <text>Выдрессированный для защиты хозяина саблезубый кот в мешке. Весит прилично, но весьма эффективно помогает отразить атаки различной нечисти. При необходимости кота можно опять засадить в мешок. В подкладку мешка вшиты фрагменты артефакта Пружина, чтобы снизить весь этого крупного зверя.</text>
+   </string>
+   <string id="Equipment">
+      <text>Экипировка и еда</text>
+   </string>
+   <string id="Food">
+      <text>Продукты питания</text>
+   </string>
+   <string id="Kolbasa">
+      <text>Колбаса "Практическая"</text>
+   </string>
+   <string id="Medi">
+      <text>Медицинские препараты</text>
+   </string>
+   <string id="Medkit">
+      <text>Аптечка</text>
+   </string>
+   <string id="Medkit_army">
+      <text>Армейская аптечка</text>
+   </string>
+   <string id="Medkit_scientific">
+      <text>Научная аптечка</text>
+   </string>
+   <string id="Sci2">
+      <text>Научный EXP-4</text>
+   </string>
+   <string id="Vodka">
+      <text>Водка "Казаки"</text>
+   </string>
+   <string id="st_detector1">
+      <text>Дозиметр</text>
+   </string>
+   <string id="st_detector2">
+      <text>Детектор аномалий</text>
+   </string>
+   <string id="st_detector3">
+      <text>Элитный детектор аномалий</text>
+   </string>
+   <string id="st_detector4">
+      <text>Детектор аномалий "Монолит"</text>
+   </string>
+   <string id="st_detector_descr">
+      <text>Предназначен для обнаружения аномальных зон, а также очагов радиоактивного загрязнения.</text>
+   </string>
+   <string id="st_sleeping_bag">
+      <text>Спальный мешок</text>
+   </string>
+   <string id="st_cat_bag">
+      <text>Кот в мешке</text>
+   </string>
+   <string id="tre_ruck">
+      <text>Пустой рюкзак</text>
+   </string>
+   <string id="tre_ruck_s">
+      <text>Пустой рюкзак</text>
+   </string>
+   <string id="enc_tre_ruck">
+      <text>Походный рюкзак из прорезиненной камуфляжной ткани, не промокает и слабозаметен, поэтому идеально подходит для закладки своего тайника в каком-нибудь в укромном месте.</text>
+   </string>
+   <string id="kpb_name">
+      <text>Электронная игра</text>
+   </string>
+   <string id="kpb_desc">
+      <text>Одна из электронных игрушек, которые были столь популярны в недалеком прошлом.</text>
+   </string>
+   <string id="kittens_name">
+      <text>Детектор "Монолит"</text>
+   </string>
+   <string id="kittens_desc">
+      <text>Детектор аномалий и артефактов, используемый группировкой Монолит. Технология производства неизвестна.</text>
+   </string>
+   <string id="item_pda_labx8_name">
+      <text>КПК Х8</text>
+   </string>
+   <string id="item_pda_labx8_desc">
+      <text>КПК с секретными данными из лаборатории Х8.</text>
+   </string>
+   <string id="item_notebook_jupiter_name">
+      <text>Портативный ЭВМ</text>
+   </string>
+   <string id="item_notebook_jupiter_desc">
+      <text>Портативный ЭВМ ассистента научной станции-бункера "Юпитер" с важной информацией.</text>
+   </string>
+   <string id="item_doc_jupiter_name">
+      <text>Документация Юпитер</text>
+   </string>
+   <string id="item_doc_jupiter_desc">
+      <text>Документация с секретными данными из лаборатории в окрестностях Юпитера.</text>
+   </string>
+   <string id="item_kubik_rubik_name">
+      <text>Кубик Рубика</text>
+   </string>
+   <string id="item_kubik_rubik_desc">
+      <text>Одна из самых популярных игрушек-головоломок столь далеких 1980-х годов. По идее должна стоить недорого, да и весить намного меньше. Непонятно, почему за нее готовы выплатить приличное вознаграждение...</text>
+   </string>
+   <string id="Beer">
+      <text>Пиво</text>
+   </string>
+   <string id="enc_equipment_food_beer">
+      <text>Пиво Балтика. В небольших количествах немного восстанавливает силы, однако в чрезмерных количествах вызывает опьянение.</text>
+   </string>
+   <string id="Flaska">
+      <text>Фляжка</text>
+   </string>
+   <string id="enc_equipment_food_flaska">
+      <text>Фляжка с живой водой.</text>
+   </string>
+   <string id="Naka">
+      <text>Шоколадка</text>
+   </string>
+   <string id="enc_equipment_food_naka">
+      <text>Шоколадный батончик. Им можно неплохо перекусить, когда есть больше нечего.</text>
+   </string>
+   <string id="pripyat_key_name">
+      <text>Ключ</text>
+   </string>
+   <string id="pripyat_key_desc">
+      <text>Ключ, открывающий неизвестно какую дверь...</text>
+   </string>
+   <string id="item_floppy_disketka_name">
+      <text>Дискета</text>
+   </string>
+   <string id="item_floppy_disketka_desc">
+      <text>Дискета с даннымми о секретных военных разработках.</text>
+   </string>
+   <string id="item_music_cddisk_name">
+      <text>Компакт-диск</text>
+   </string>
+   <string id="item_music_cddisk_desc">
+      <text>Компакт-диск с какой-то якобы важной информацией.</text>
+   </string>
+   <string id="item_condensators_name">
+      <text>Конденсаторы</text>
+   </string>
+   <string id="item_condensators_desc">
+      <text>Коробка с конденсаторами.</text>
+   </string>
+   <string id="item_transistors_name">
+      <text>Транзисторы</text>
+   </string>
+   <string id="item_transistors_desc">
+      <text>Коробка с транзисторами.</text>
+   </string>
+   <string id="item_katushka_provoloki_name">
+      <text>Катушка проволоки</text>
+   </string>
+   <string id="item_katushka_provoloki_desc">
+      <text>Катушка с проволокой для ремонта электропроводки.</text>
+   </string>
+   <string id="item_icona_name">
+      <text>Икона</text>
+   </string>
+   <string id="item_icona_desc">
+      <text>Старинная и очень ценная икона. Коллекционеры готовы заплатить за нее крупные суммы.</text>
+   </string>
+   <string id="flower_ameliya_name">
+      <text>Аленький цветочек</text>
+   </string>
+   <string id="flower_ameliya_desc">
+      <text>Лепестки белые, с голубоватым оттенком, бутон крупный, крестообразный. Цветок имеет приятный аромат. Когда держишь его в руках, счётчик Гейгера замолкает вблизи радиоактивных зон. Видимо цветок как-то поглощает почти всю радиацию. Кроме того он имеет и другие полезные свойства.</text>
+   </string>
+   <string id="container_rice_name">
+      <text>Контейнер с рисом</text>
+   </string>
+   <string id="container_rice_desc">
+      <text>Стальной контейнер, предназначенный для хранения различных предметов при длительном воздействии радиации. В него можно положить даже продукты, не боясь получить при их употреблении дозу радиации. На крышке приклеена наклейка с надписью "Рис". Контейнер заперт, в него вмонтирован весьма хитрый замок. Судя по весу и грохоту при встряхивании, внутри что-то есть.</text>
+   </string>
+   <string id="poison_gas_ballon_name">
+      <text>Баллон с газом «Перин-В3»</text>
+   </string>
+   <string id="poison_gas_ballon_desc">
+      <text>Баллон с опасным химическим веществом нервно-паралитического действия.</text>
+   </string>
+   <string id="liker_baileys_name">
+      <text>Самогон «Аномалия»</text>
+   </string>
+   <string id="liker_baileys_desc">
+      <text>Бутылка самогона, изготовленного лесником из Рыжего леса путем настаивания выгнанного самогона в аномалиях.</text>
+   </string>
+   <string id="box_cigara_name">
+      <text>Коробка сигар</text>
+   </string>
+   <string id="box_cigara_desc">
+      <text>Коробка кубинских сигар "Гуантанамера".</text>
+   </string>
+   <string id="item_lekarstvo_name">
+      <text>Лекарство</text>
+   </string>
+   <string id="item_lekarstvo_desc">
+      <text>Сильное обезбаливающее.</text>
+   </string>
+   <string id="sigaret">
+      <text>Сигареты</text>
+   </string>
+   <string id="enc_sigaret_desc">
+      <text>Пачка сигарет. Является ходовым товаром в Зоне даже среди некурящих сталкеров, так как сигареты можно выгодно обменять. Слегка утоляют чувство голода, однако вредны для здоровья.</text>
+   </string>
+   <string id="cigara">
+      <text>Сигара</text>
+   </string>
+   <string id="enc_cigara_desc">
+      <text>Кубинская сигара. Является ходовым товаром в Зоне даже среди некурящих сталкеров, так как ее можно выгодно обменять. Слегка утоляют чувство голода, однако вредна для здоровья.</text>
+   </string>
+   <string id="secret_device_name">
+      <text>Пси-излучатель</text>
+   </string>
+   <string id="secret_device_desc">
+      <text>Портативный прибор, спроектированный и собранный учёными Монолита. Точное предназначение неизвестно, но прибор способен транслировать достаточно сильное пси-излучение в радиусе до 200 метров. Выглядит допотоно, однако в данном случае внешний вид скорее всего обманчив.</text>
+   </string>
+   <string id="oreshki">
+      <text>Орешки</text>
+   </string>
+   <string id="enc_oreshki_desc">
+      <text>Орешки. Очень сытные и питательные, поэтому стоят дорого и встречается редко.</text>
+   </string>
+   <string id="ryba">
+      <text>Килька</text>
+   </string>
+   <string id="enc_ryba_desc">
+      <text>Килька в томатном соусе. Обычная консервированная килька. В Зоне этих консервов не мало, так-как за пределами Зоны их почти никто не ест.</text>
+   </string>
+   <string id="Vitamin">
+      <text>Витамины</text>
+   </string>
+   <string id="enc_equipment_vitamin">
+      <text>Дневная доза витаминов, разработанных учёными в Зоне специально для смягчения пагубного воздействия радиации и аномалий. Восстанавливают силы, здоровье и улучшают аппетит, а также временно увеличивают переносимый вес в среднем на 1 кг.</text>
+   </string>
+   <string id="Herkules">
+      <text>Геркулес</text>
+   </string>
+   <string id="enc_equipment_herkules">
+      <text>Концентрированный продукт питания с креатином. Питателен, а также весьма удобен в использовании и хранении благодаря компактности и небольшому весу. Хорошо восстанавливает силы и временно увеличивает переносимый вес в среднем на 10 кг.</text>
+   </string>
+   <string id="repair_kit">
+      <text>Ремкомплект</text>
+   </string>
+   <string id="enc_equipment_repair_kit">
+      <text>Набор инструментов и приспособлений для ремонта автомашин в походных условиях.</text>
+   </string>
+   <string id="Barrel">
+      <text>Бочка</text>
+   </string>
+   <string id="item_case_pred_name">
+      <text>Документы с Предбанника</text>
+   </string>
+   <string id="explosive_charge_name">
+      <text>Взрывчатка</text>
+   </string>
+   <string id="explosive_charge_desc">
+      <text>Взрывчатка с часовым механизмом.</text>
+   </string>
+   <string id="item_note_jupiter_name">
+      <text>Заметка Юпитер</text>
+   </string>
+   <string id="item_note_jupiter_desc">
+      <text>Заметка с секретными данными из лаборатории в окрестностях Юпитера.</text>
+   </string>
+   <string id="item_note_zaton_name">
+      <text>Документы с Затона</text>
+   </string>
+   <string id="item_note_zaton_desc">
+      <text>Документы с секретными сведениями, утраченные экспедицией военных на Затоне.</text>
+   </string>
+   <string id="item_kanifol_name">
+      <text>Канифоль</text>
+   </string>
+   <string id="item_kanifol_desc">
+      <text>Коробка с канифолью.</text>
+   </string>
+   <string id="item_textolite_name">
+      <text>Текстолит</text>
+   </string>
+   <string id="item_textolite_desc">
+      <text>Электроизоляционный конструкционный материал.</text>
+   </string>
+   <string id="item_memory_module_name">
+      <text>Трансформатор</text>
+   </string>
+   <string id="item_memory_module_desc">
+      <text>Устройство электротехнического назначения.</text>
+   </string>
+   <string id="item_toolkit_1_name">
+      <text>Инструменты</text>
+   </string>
+   <string id="item_toolkit_1_desc">
+      <text>Базовый набор инструментов.</text>
+   </string>
+   <string id="item_toolkit_2_name">
+      <text>Инструменты</text>
+   </string>
+   <string id="item_toolkit_2_desc">
+      <text>Набор инструментов для точной работы.</text>
+   </string>
+   <string id="item_toolkit_3_name">
+      <text>Инструменты</text>
+   </string>
+   <string id="item_toolkit_3_desc">
+      <text>Набор инструментов для сверхточной работы.</text>
+   </string>
+   <string id="item_black_box_name">
+      <text>Черный ящик</text>
+   </string>
+   <string id="item_black_box_desc">
+      <text>Черный ящик вертолета, потерпевшего крушение над Мертвыми Топями.</text>
+   </string>
+   <string id="item_pda_lucky_name">
+      <text>Пугач</text>
+   </string>
+   <string id="item_pda_lucky_desc">
+      <text>Какой-то непонятный прибор, который по словам ученых якобы излучает частоты, способные на коротких дистанциях и на некоторое время отпугивать некоторых монстров. Неэффективен против монстров, способных атаковать на дистанциях, превышающих радиус действия прибора. Прибор питается специфическим и неопознанным по сих пор видом энергии, которая присутствует в Зоне. Прибор достаточно быстро разряжается, но со временем снова начинает аккумулировать эту неизвестную энергию. Устанавливается в слот для детекторов аномалий.</text>
+   </string>
+   <string id="item_pda_tiran_name">
+      <text>Калькулятор</text>
+   </string>
+   <string id="item_pda_tiran_desc">
+      <text>Обычный научный калькурятор.</text>
+   </string>
+   <string id="item_msl_pda_name">
+      <text>Электронная карточка</text>
+   </string>
+   <string id="item_msl_pda_desc">
+      <text>Электронная карточка доступа от какого-то секретного хранилища в Припяти.</text>
+   </string>
+   <string id="container_green_name">
+      <text>Зеленый контейнер</text>
+   </string>
+   <string id="container_green_desc">
+      <text>Стальной контейнер, предназначенный для хранения различных предметов при длительном воздействии радиации. В него можно положить даже продукты, не боясь получить при их употреблении дозу радиации. На крышке приклеена наклейка с надписью "Зелень". Контейнер заперт, в него вмонтирован весьма хитрый замок. Судя по весу и грохоту при встряхивании, внутри что-то есть.</text>
+   </string>
+   <string id="item_predatel_card_name">
+      <text>Удостоверение предателя</text>
+   </string>
+   <string id="item_predatel_card_desc">
+      <text>Удостоверение долговца-предателя.</text>
+   </string>
+   <string id="item_playboy_name">
+      <text>Журнал</text>
+   </string>
+   <string id="item_playboy_desc">
+      <text>Весьма занимательный журнал.</text>
+   </string>
+   <string id="st_id_simple">
+      <text>Детектор "Отклик"</text>
+   </string>
+   <string id="enc_id_simple">
+      <text>Устаревшая модель детектора аномальной активности первого поколения. Реагирует световым сигналом, при приближении к аномалиям. Кроме того, может регистрировать присутствие артефактов и измерять расстояние до ближайшего из них. Расстояние до артефакта определяется периодичностью светового сигнала. Для надежности показания следует снимать в неподвижном состоянии.</text>
+   </string>
+   <string id="st_id_advanced">
+      <text>Детектор "Скаут"</text>
+   </string>
+   <string id="enc_id_advanced">
+      <text>Детектор аномальной активности второго поколения. Снабжён локатором аномальных образований и светодиодным табло для отображения направления к артефакту и расстояния до него.</text>
+   </string>
+   <string id="st_id_elite">
+      <text>Детектор "Поиск"</text>
+   </string>
+   <string id="enc_id_elite">
+      <text>Детектор-сканер третьего поколения, используемый учёными. Благодаря трём независимым датчикам приблизительное расположение артефакта относительно детектора показывается на специальном экране.</text>
+   </string>
+   <string id="st_id_elite_plus">
+      <text>Прототип детектора "Сварог"</text>
+   </string>
+   <string id="enc_id_elite_plus">
+      <text>Прототип сканера аномальных зон расширенной функциональности. Добавлена программа распознавания статичных зон аномальной активности, которые имеются в базе данных; при этом сохранена возможность обнаружения артефактов. Расположение аномальных зон и артефактов относительно детектора отображаются на специальном экране. Так же детектор способен при наличии беспроводного соединения с GPS-навигатором передавать на него координаты находящихся поблизости аномалий.</text>
+   </string>
+	<string id="st_drug_coagulant">
+		<text>Барвинок</text>
+	</string>
+	<string id="st_drug_coagulant_descr">
+		<text>«Викасол» - синтетический аналог витамина К. Основное действие заключается в повышении свёртываемости крови. Пользуется спросом среди сталкеров, поскольку позволяет организму быстрее рубцевать рваные раны. Обладает продолжительным действием.</text>
+	</string>
+	<string id="st_drug_psy_blockade">
+		<text>Пси-блокада</text>
+	</string>
+	<string id="st_drug_psy_blockade_descr">
+		<text>Наркотический препарат, блокирующий лавинообразные нервные импульсы. Интересен побочный эффект: после приёма препарата наблюдается кратковременное исчезновение каких-либо эмоций. В Зоне используется для противодействия аномальным полям повышенной пси-активности; за её пределами применения не нашёл. Обладает продолжительным действием.</text>
+	</string>
+	<string id="st_drug_radioprotector">
+		<text>Радиопротектор</text>
+	</string>
+	<string id="st_drug_radioprotector_descr">
+		<text>Радиопротектор «Индралин-Б190» входил в состав личных аптечек работников АЭС. Появился в Зоне как замена излишне токсичному цистамину гидрохлорида (РС1). Уменьшает воздействие гамма-излучения на ткани живого организма. Данный препарат желательно применять превентивно, до облучения, поскольку он не оказывает мгновенного эффекта. Обладает продолжительным действием.</text>
+	</string>
+	<string id="item_dar_pass_flash_name">
+      <text>Приемопередатчик</text>
+   </string>
+   <string id="item_dar_pass_flash_desc">
+      <text>Устройство для передачи и приёма сигнала между двумя физически разными средами системы связи.</text>
+   </string>
+   <string id="item_evm_name">
+      <text>ЭВМ</text>
+   </string>
+   <string id="item_evm_desc">
+      <text>Любимая электронно-вычислительная машина доцента Придурова.</text>
+   </string>
+</string_table>
