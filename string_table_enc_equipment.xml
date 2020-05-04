@@ -1,525 +1,525 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <string_table>
    <string id="Antirad">
-      <text>Антирадиационные препараты</text>
+      <text>Anti-radiation drugs</text>
    </string>
    <string id="Arm-heavy">
-      <text>Тяжёлое сталкеровское снаряжение</text>
+      <text>Heavy stalker equipment</text>
    </string>
    <string id="Arm-light">
-      <text>Лёгкое сталкеровское снаряжение</text>
+      <text>Light stalker equipment</text>
    </string>
    <string id="Arm-medium">
-      <text>Среднее сталкеровское снаряжение</text>
+      <text>Medium stalker equipment</text>
    </string>
    <string id="bandage">
-      <text>Бинт</text>
+      <text>Bandage</text>
    </string>
    <string id="Binocul">
-      <text>Бинокль</text>
+      <text>Binocular</text>
    </string>
    <string id="Bread">
-      <text>Хлеб</text>
+      <text>Bread</text>
    </string>
    <string id="cit_deadcity_maps_desc">
-      <text>Подробная карта Мёртвого города, содержащая схему расположения позиций наёмников</text>
+      <text>Detailed map of the Dead City, containing a diagram of the location of the mercenary positions</text>
    </string>
    <string id="cit_deadcity_maps_name">
-      <text>Карта Мёртвого города</text>
+      <text>Map of Dead City</text>
    </string>
    <string id="cit_doctors_key_desc">
-      <text>Ключ Доктора от тайника в Припяти.</text>
+      <text>The Doctor's key from the stash in Pripyat.</text>
    </string>
    <string id="cit_doctors_key_short_desc">
-      <text>Ключ Доктора</text>
+      <text>Doctor`s key.</text>
    </string>
    <string id="Conserva">
-      <text>"Радость туриста"</text>
+      <text>"Tourists Delight"</text>
    </string>
    <string id="Detect1">
-      <text>Детектор аномалий</text>
+      <text>Anomaly Detector</text>
    </string>
    <string id="Devic">
-      <text>Приборы и устройства</text>
+      <text>Devices and Devices</text>
    </string>
    <string id="device-PDA">
-      <text>КПК</text>
+      <text>PDA</text>
    </string>
    <string id="device-torch">
-      <text>Фонарик</text>
+      <text>Torch</text>
    </string>
    <string id="device-torch_m1">
-      <text>Супер-Фонарик</text>
+      <text>Super Lantern</text>
    </string>
    <string id="enc_equipment_armors_arm-heavy">
-      <text>Защитный костюм. Вес - 18 кг. Особенности: защищает тело от "студня", "жгучего пуха", большинства аномалий и механических повреждений. Грудная клетка и спина защищены встроенными биометаллическими пластинами. Оборудован герметичным металлопластиковым шлемом и двумя кислородными баллонами. Внимание: при продолжительном использовании приходит в негодность - повреждается и рвётся.</text>
+      <text>A protective suit. Weight - 18 kg. Features: protects the body from the "student" of most anomalies and mechanical damage. The chest and back are protected by built-in biometallic plates. Equipped with an airtight metal helmet and two oxygen cylinders. Warning: with prolonged use comes into disrepair - damaged and torn.</text>
    </string>
    <string id="enc_equipment_armors_arm-light">
-      <text>Защитный костюм. Вес - 8 кг. Особенности: защищает тело от воздействия слабых аномалий и механических повреждений. Оборудован кислородной маской. Внимание: при продолжительном использовании приходит в негодность - повреждается и рвётся.</text>
+      <text>A protective suit. Weight - 8 kg. Features: protects the body from the impact of weak anomalies and mechanical damage. Equipped with an oxygen mask. Warning: with prolonged use comes into disrepair - damaged and torn.</text>
    </string>
    <string id="enc_equipment_armors_arm-medium">
-      <text>Защитный костюм. Вес - 12 кг. Особенности: защищает тело от "студня", "жгучего пуха", многих аномалий и механических повреждений. Оборудован герметичным шлемом и кислородным баллоном. Внимание: при продолжительном использовании приходит в негодность - повреждается и рвётся.</text>
+      <text>A protective suit. Weight - 12 kg. Features: protects the body from the "burns" of "burnt fuzz", many anomalies and mechanical damage. Equipped with an airtight helmet and an oxygen tank. Warning: with prolonged use comes into disrepair - damaged and torn.</text>
    </string>
    <string id="enc_equipment_armors_sci2">
-      <text>Защитный скафандр красного цвета с герметичным шлемом. Вес - 11 кг. Особенности: защищает тело от огня, кислот, газов, воздействия разнообразных аномалий, "жгучего пуха" и механических повреждений. Оборудован двумя кислородными баллонами. Внимание: при продолжительном использовании приходит в негодность - повреждается и рвётся.</text>
+      <text>A red-colored protective suit with an airtight helmet. Weight - 11 kg. Features: protects the body from fire, acids, gases, exposure to various anomalies, "burnt fuzz" and mechanical damage. Equipped with two oxygen cylinders. Warning: with prolonged use comes into disrepair - damaged and torn.</text>
    </string>
    <string id="enc_equipment_devic_binocul1">
-      <text>Армейский портативный бинокль.</text>
+      <text>Army portable binoculars.</text>
    </string>
    <string id="enc_equipment_devic_detect1">
-      <text>Дозиметр - устройство, измеряющее дозу или мощность ионизирующего излучения.</text>
+      <text>A dosimeter is a device that measures the dose or power of ionizing radiation.</text>
    </string>
    <string id="enc_equipment_devic_detect2">
-      <text>Устройство, определяющее наличие аномальных полей и возмущений и сообщающее о них звуковым сигналом.</text>
+      <text>A device that detects the presence of abnormal fields and disturbances and informs them with an audible signal.</text>
    </string>
    <string id="enc_equipment_devic_detect3">
-      <text>Элитный детектор аномалий, изобретённый учёными в Зоне. Определяет не только наличие аномальных полей и возмущений, но также показывает на карте их расположение, сообщает о них звуковым сигналом.</text>
+      <text>Elite anomaly detector invented by scientists in the zone. Determines not only the presence of abnormal fields and disturbances, but also shows on the map their location, reports them with a beep.</text>
    </string>
    <string id="enc_equipment_devic_detect4">
-      <text>Детектор аномалий, используемый группировкой Монолит. Технология производства неизвестна. Преимущества по сравнению с элитным детектором аномалий заключаются в меньшем весе прибора, а также в том, что он может функционировать и как детектор артефактов.</text>
+      <text>An anomaly detector used by the Monolith group. Production technology is unknown. The advantages over the elite anomaly detector are the smaller weight of the device, as well as the fact that it can function as a detector of artifacts.</text>
    </string>
    <string id="enc_equipment_devic_device-PDA1">
-      <text>Карманный персональный компьютер - незаменимое устройство в Зоне.</text>
+      <text>Pocket personal computer is an indispensable device in the zone.</text>
    </string>
    <string id="enc_equipment_devic_device-torch1">
-      <text>Фонарик с обычной лампой. Весьма полезная вещь в условиях недостаточной освещённости.</text>
+      <text>A flashlight with a regular lamp. A very useful thing in conditions of insufficient light.</text>
    </string>
    <string id="enc_equipment_devic_device-torch1_m1">
-      <text>Фонарик с довольно мощной лампой. Весьма полезная вещь при избытке денежных средств.</text>
+      <text>A flashlight with a rather powerful lamp. A very useful thing indeed.</text>
    </string>
    <string id="enc_equipment_energydrink">
-      <text>Отличный энергетический напиток "Non Stop". Содержит кофеин, таурин и мощный витаминный комплекс, снимающие усталость и прибавляющие силы. Не в состоянии сделать даже шаг? Тогда это именно то, что нужно.</text>
+      <text>Excellent energy drink "Non Stop". Contains caffeine, taurine and a powerful vitamin complex that relieve fatigue and added strength. Unable to take even a step? Then that's exactly what you need.</text>
    </string>
    <string id="enc_equipment_food_bread1">
-      <text>Неизвестно, кто умудряется печь батоны на территории Зоны, однако этот хлеб не заражен и вполне съедобен. Во всяком случае, никто из сталкеров пока не жаловался.</text>
+      <text>It is not known who manages to bake loaves in the area, but this bread is not contaminated and quite edible. In any case, none of the stalkers have complained yet.</text>
    </string>
    <string id="enc_equipment_food_conserva1">
-      <text>Консервы с армейского продовольственного склада. Срок годности вроде бы не истёк.</text>
+      <text>Canned from an army food warehouse. The expiration date doesn't seem to have expired.</text>
    </string>
    <string id="enc_equipment_food_kolbasa1">
-      <text>Часто за неимением лучшего эта колбаса - смесь курятины и соевого заменителя - завтрак, обед и ужин сталкера.</text>
+      <text>Often for lack of the best this sausage - a mixture of chicken and soy substitute - breakfast, lunch and dinner stalker.</text>
    </string>
    <string id="enc_equipment_food_vodka1">
-      <text>Водка производства компании "NA". Хорошо пьётся, заметно снижает воздействие радиации, однако злоупотреблять ей не следует.</text>
+      <text>Vodka produced by "NA" company. It is good to see, significantly reduces the effects of radiation, but it should not be abused.</text>
    </string>
    <string id="enc_equipment_medi_antirad1">
-      <text>Снижают воздействие радиации на организм.</text>
+      <text>Reduce the effects of radiation on the body.</text>
    </string>
    <string id="enc_equipment_medi_bandage1">
-      <text>Перевязочный материал. Помогает остановить кровотечение.</text>
+      <text>Dressings. Helps stop the bleeding.</text>
    </string>
    <string id="enc_equipment_medi_medkit1">
-      <text>Универсальный медицинский набор. Позволяет справляться с травмами различного вида и степени сложности - ранениями, ожогами, отравлениями и прочим.</text>
+      <text>Universal medical kit. Allows you to cope with injuries of various kinds and degrees of difficulty - injuries, burns, poisonings and other things.</text>
    </string>
    <string id="enc_equipment_medi_medkit2">
-      <text>Специализированный медицинский набор для борьбы с физическими повреждениями и кровотечением. В него входят компоненты для ускорения свертывания крови, обезболивающие, антибиотики и иммунные стимуляторы.</text>
+      <text>A specialized medical kit to deal with physical injury and bleeding. It includes components to accelerate blood clotting, painkillers, antibiotics and immune stimulants.</text>
    </string>
    <string id="enc_equipment_medi_medkit3">
-      <text>Медицинский набор, разработанный специально для работы в условиях Зоны. Состав набора подобран как для борьбы с ранениями, так и для вывода радионуклидов из организма. Препятствует развитию лучевой болезни, а также снижает дозу накопленной радиации.</text>
+      <text>A medical kit designed specifically to work in the zone. The composition of the set is selected both to fight injuries, and to remove radionuclide from the body. Prevents the development of radiation sickness, and reduces the dose of accumulated radiation.</text>
    </string>
    <string id="energy_drink_name">
-      <text>Энергетический напиток "Non Stop"</text>
+      <text>Energy Drink "Non Stop"</text>
    </string>
    <string id="energy_drink_short_name">
-      <text>Энергетический напиток "Non Stop"</text>
+      <text>Energy Drink "Non Stop"</text>
    </string>
    <string id="enc_equipments_sleeping_bag">
-      <text>Предмет походного быта предназначенный для отдыха и сна. Спальный мешок обеспечивает хорошую изоляцию от холода, а также дополнительную амортизацию.</text>
+      <text>This vital asset of hiking life is intended for rest and sleep. The sleeping bag provides good insulation from the cold, as well as additional cushioning.</text>
    </string>
    <string id="enc_equipments_cat_bag">
-      <text>Выдрессированный для защиты хозяина саблезубый кот в мешке. Весит прилично, но весьма эффективно помогает отразить атаки различной нечисти. При необходимости кота можно опять засадить в мешок. В подкладку мешка вшиты фрагменты артефакта Пружина, чтобы снизить весь этого крупного зверя.</text>
+      <text>Trained to protect the owner saber-toothed cat in a bag. Weighs decently, but very effectively helps to repel attacks of various evil spirits. If necessary, the cat can be put back in the bag. In the lining of the bag sewn fragments of the artifact Spring to reduce the whole large beast.</text>
    </string>
    <string id="Equipment">
-      <text>Экипировка и еда</text>
+      <text>Equipment and food</text>
    </string>
    <string id="Food">
-      <text>Продукты питания</text>
+      <text>Food</text>
    </string>
    <string id="Kolbasa">
-      <text>Колбаса "Практическая"</text>
+      <text>РљРѕlbasa "Sausage"</text>
    </string>
    <string id="Medi">
-      <text>Медицинские препараты</text>
+      <text>Medications</text>
    </string>
    <string id="Medkit">
-      <text>Аптечка</text>
+      <text>Medikit</text>
    </string>
    <string id="Medkit_army">
-      <text>Армейская аптечка</text>
+      <text>Amt medikit</text>
    </string>
    <string id="Medkit_scientific">
-      <text>Научная аптечка</text>
+      <text>Scientific medikit</text>
    </string>
    <string id="Sci2">
-      <text>Научный EXP-4</text>
+      <text>Scientific EXP-4</text>
    </string>
    <string id="Vodka">
-      <text>Водка "Казаки"</text>
+      <text>Vodka "Cossacks"</text>
    </string>
    <string id="st_detector1">
-      <text>Дозиметр</text>
+      <text>Dosimeter</text>
    </string>
    <string id="st_detector2">
-      <text>Детектор аномалий</text>
+      <text>Anomaly detector</text>
    </string>
    <string id="st_detector3">
-      <text>Элитный детектор аномалий</text>
+      <text>Elite anomaly detector</text>
    </string>
    <string id="st_detector4">
-      <text>Детектор аномалий "Монолит"</text>
+      <text>Artifact Detector "РњРѕnolith"</text>
    </string>
    <string id="st_detector_descr">
-      <text>Предназначен для обнаружения аномальных зон, а также очагов радиоактивного загрязнения.</text>
+      <text>It is designed to detect anomalous zones, as well as hotbeds of radioactive contamination.</text>
    </string>
    <string id="st_sleeping_bag">
-      <text>Спальный мешок</text>
+      <text>Sleeping bag</text>
    </string>
    <string id="st_cat_bag">
-      <text>Кот в мешке</text>
+      <text>Cat Bag</text>
    </string>
    <string id="tre_ruck">
-      <text>Пустой рюкзак</text>
+      <text>Empty backpack</text>
    </string>
    <string id="tre_ruck_s">
-      <text>Пустой рюкзак</text>
+      <text>Empty backpack</text>
    </string>
    <string id="enc_tre_ruck">
-      <text>Походный рюкзак из прорезиненной камуфляжной ткани, не промокает и слабозаметен, поэтому идеально подходит для закладки своего тайника в каком-нибудь в укромном месте.</text>
+      <text>Hiking backpack made of rubberized camouflage fabric, does not get wet and weakly visible, so it is ideal for laying your hiding place in some secluded place.</text>
    </string>
    <string id="kpb_name">
-      <text>Электронная игра</text>
+      <text>Electronic game</text>
    </string>
    <string id="kpb_desc">
-      <text>Одна из электронных игрушек, которые были столь популярны в недалеком прошлом.</text>
+      <text>One of the electronic toys that have been so popular in the recent past.</text>
    </string>
    <string id="kittens_name">
-      <text>Детектор "Монолит"</text>
+      <text>Detector "РњРѕnolith"</text>
    </string>
    <string id="kittens_desc">
-      <text>Детектор аномалий и артефактов, используемый группировкой Монолит. Технология производства неизвестна.</text>
+      <text>An anomaly and artifact detector used by the Monolith group. Production technology is unknown.</text>
    </string>
    <string id="item_pda_labx8_name">
-      <text>КПК Х8</text>
+      <text>PDA РҐ8</text>
    </string>
    <string id="item_pda_labx8_desc">
-      <text>КПК с секретными данными из лаборатории Х8.</text>
+      <text>PDA with secret data from the lab РҐ8.</text>
    </string>
    <string id="item_notebook_jupiter_name">
-      <text>Портативный ЭВМ</text>
+      <text>Portable computer</text>
    </string>
    <string id="item_notebook_jupiter_desc">
-      <text>Портативный ЭВМ ассистента научной станции-бункера "Юпитер" с важной информацией.</text>
+      <text>Portable computer assistant scientific station-bunker "Jupiter" with important information.</text>
    </string>
    <string id="item_doc_jupiter_name">
-      <text>Документация Юпитер</text>
+      <text>Documentation by Jupiter</text>
    </string>
    <string id="item_doc_jupiter_desc">
-      <text>Документация с секретными данными из лаборатории в окрестностях Юпитера.</text>
+      <text>Documentation with classified data from a laboratory near Jupiter.</text>
    </string>
    <string id="item_kubik_rubik_name">
-      <text>Кубик Рубика</text>
+      <text>Rubik's Cube</text>
    </string>
    <string id="item_kubik_rubik_desc">
-      <text>Одна из самых популярных игрушек-головоломок столь далеких 1980-х годов. По идее должна стоить недорого, да и весить намного меньше. Непонятно, почему за нее готовы выплатить приличное вознаграждение...</text>
+      <text>One of the most popular puzzle toys so far from the 1980s. In theory, it should be inexpensive, and weigh much less. It is not clear why they are ready to pay a decent reward for it...</text>
    </string>
    <string id="Beer">
-      <text>Пиво</text>
+      <text>Beer</text>
    </string>
    <string id="enc_equipment_food_beer">
-      <text>Пиво Балтика. В небольших количествах немного восстанавливает силы, однако в чрезмерных количествах вызывает опьянение.</text>
+      <text>Beer Baltic. In small amounts a little restores strength, but in excessive amounts causes intoxication.</text>
    </string>
    <string id="Flaska">
-      <text>Фляжка</text>
+      <text>Flask</text>
    </string>
    <string id="enc_equipment_food_flaska">
-      <text>Фляжка с живой водой.</text>
+      <text>A flask of fresh water.</text>
    </string>
    <string id="Naka">
-      <text>Шоколадка</text>
+      <text>Chocolate</text>
    </string>
    <string id="enc_equipment_food_naka">
-      <text>Шоколадный батончик. Им можно неплохо перекусить, когда есть больше нечего.</text>
+      <text>Chocolate bar. You can have a good snack when there is nothing else.</text>
    </string>
    <string id="pripyat_key_name">
-      <text>Ключ</text>
+      <text>The key</text>
    </string>
    <string id="pripyat_key_desc">
-      <text>Ключ, открывающий неизвестно какую дверь...</text>
+      <text>The key that opens the unknown door...</text>
    </string>
    <string id="item_floppy_disketka_name">
-      <text>Дискета</text>
+      <text>Diskette</text>
    </string>
    <string id="item_floppy_disketka_desc">
-      <text>Дискета с даннымми о секретных военных разработках.</text>
+      <text>A floppy disk with data on secret military developments.</text>
    </string>
    <string id="item_music_cddisk_name">
-      <text>Компакт-диск</text>
+      <text>Compact Disk</text>
    </string>
    <string id="item_music_cddisk_desc">
-      <text>Компакт-диск с какой-то якобы важной информацией.</text>
+      <text>A CD with some supposedly important information.</text>
    </string>
    <string id="item_condensators_name">
-      <text>Конденсаторы</text>
+      <text>Capacitors</text>
    </string>
    <string id="item_condensators_desc">
-      <text>Коробка с конденсаторами.</text>
+      <text>A box of capacitors.</text>
    </string>
    <string id="item_transistors_name">
-      <text>Транзисторы</text>
+      <text>Transistors</text>
    </string>
    <string id="item_transistors_desc">
-      <text>Коробка с транзисторами.</text>
+      <text>A box of transistors.</text>
    </string>
    <string id="item_katushka_provoloki_name">
-      <text>Катушка проволоки</text>
+      <text>Wire coil</text>
    </string>
    <string id="item_katushka_provoloki_desc">
-      <text>Катушка с проволокой для ремонта электропроводки.</text>
+      <text>A coil with wire to repair the wiring.</text>
    </string>
    <string id="item_icona_name">
-      <text>Икона</text>
+      <text>Icon</text>
    </string>
    <string id="item_icona_desc">
-      <text>Старинная и очень ценная икона. Коллекционеры готовы заплатить за нее крупные суммы.</text>
+      <text>An ancient and very valuable icon. Collectors are willing to pay large sums for it.</text>
    </string>
    <string id="flower_ameliya_name">
-      <text>Аленький цветочек</text>
+      <text>Scarlet Flower</text>
    </string>
    <string id="flower_ameliya_desc">
-      <text>Лепестки белые, с голубоватым оттенком, бутон крупный, крестообразный. Цветок имеет приятный аромат. Когда держишь его в руках, счётчик Гейгера замолкает вблизи радиоактивных зон. Видимо цветок как-то поглощает почти всю радиацию. Кроме того он имеет и другие полезные свойства.</text>
+      <text>The petals are white, with a bluish tinge, the bud is large, cruciform. The flower has a pleasant aroma. When you hold it in your hands, the Geiger counter falls silent near the radioactive zones. Apparently the flower somehow absorbs almost all radiation. In addition, it has other useful properties.</text>
    </string>
    <string id="container_rice_name">
-      <text>Контейнер с рисом</text>
+      <text>Container with rice</text>
    </string>
    <string id="container_rice_desc">
-      <text>Стальной контейнер, предназначенный для хранения различных предметов при длительном воздействии радиации. В него можно положить даже продукты, не боясь получить при их употреблении дозу радиации. На крышке приклеена наклейка с надписью "Рис". Контейнер заперт, в него вмонтирован весьма хитрый замок. Судя по весу и грохоту при встряхивании, внутри что-то есть.</text>
+      <text>A steel container designed to store various items with long-term radiation exposure. It can be put even products, not afraid to get a dose of radiation when they are consumed. There's a sticker on the lid that says "Rice." The container is locked, it is mounted a very cunning lock. Judging by the weight and rumbling when shaking, there is something inside.</text>
    </string>
    <string id="poison_gas_ballon_name">
-      <text>Баллон с газом «Перин-В3»</text>
+      <text>Perin-B3 gas balloon</text>
    </string>
    <string id="poison_gas_ballon_desc">
-      <text>Баллон с опасным химическим веществом нервно-паралитического действия.</text>
+      <text>A balloon with a dangerous nerve agent.</text>
    </string>
    <string id="liker_baileys_name">
-      <text>Самогон «Аномалия»</text>
+      <text>Moonshine В«AnomalyВ»</text>
    </string>
    <string id="liker_baileys_desc">
-      <text>Бутылка самогона, изготовленного лесником из Рыжего леса путем настаивания выгнанного самогона в аномалиях.</text>
+      <text>A bottle of moonshine made by a forester from the Red Forest by insisting on banished moonshine in anomalies.</text>
    </string>
    <string id="box_cigara_name">
-      <text>Коробка сигар</text>
+      <text>Box of cigars</text>
    </string>
    <string id="box_cigara_desc">
-      <text>Коробка кубинских сигар "Гуантанамера".</text>
+      <text>A box of Cuban cigars "Guantanamere".</text>
    </string>
    <string id="item_lekarstvo_name">
-      <text>Лекарство</text>
+      <text>Medicine</text>
    </string>
    <string id="item_lekarstvo_desc">
-      <text>Сильное обезбаливающее.</text>
+      <text>Strong painkiller.</text>
    </string>
    <string id="sigaret">
-      <text>Сигареты</text>
+      <text>Cigarette</text>
    </string>
    <string id="enc_sigaret_desc">
-      <text>Пачка сигарет. Является ходовым товаром в Зоне даже среди некурящих сталкеров, так как сигареты можно выгодно обменять. Слегка утоляют чувство голода, однако вредны для здоровья.</text>
+      <text>A pack of cigarettes. It is a running commodity in the zone even among non-smoking stalkers, as cigarettes can be exchanged profitably. Slightly quench the feeling of hunger, but harmful to health.</text>
    </string>
    <string id="cigara">
-      <text>Сигара</text>
+      <text>Cigar</text>
    </string>
    <string id="enc_cigara_desc">
-      <text>Кубинская сигара. Является ходовым товаром в Зоне даже среди некурящих сталкеров, так как ее можно выгодно обменять. Слегка утоляют чувство голода, однако вредна для здоровья.</text>
+      <text>Cuban cigar. It is a running commodity in the zone even among non-smoking stalkers, as it can be exchanged profitably. Slightly quench the feeling of hunger, but harmful to health.</text>
    </string>
    <string id="secret_device_name">
-      <text>Пси-излучатель</text>
+      <text>Psi emitter</text>
    </string>
    <string id="secret_device_desc">
-      <text>Портативный прибор, спроектированный и собранный учёными Монолита. Точное предназначение неизвестно, но прибор способен транслировать достаточно сильное пси-излучение в радиусе до 200 метров. Выглядит допотоно, однако в данном случае внешний вид скорее всего обманчив.</text>
+      <text>A portable device designed and assembled by Monolith scientists. The exact purpose is unknown, but the device is able to broadcast a fairly strong psi radiation in a radius of up to 200 meters. Looks like a dot, but in this case the appearance is most likely deceptive.</text>
    </string>
    <string id="oreshki">
-      <text>Орешки</text>
+      <text>Nuts</text>
    </string>
    <string id="enc_oreshki_desc">
-      <text>Орешки. Очень сытные и питательные, поэтому стоят дорого и встречается редко.</text>
+      <text>Nuts. Very satisfying and nutritious, so are expensive and rare.</text>
    </string>
    <string id="ryba">
-      <text>Килька</text>
+      <text>Sprat</text>
    </string>
    <string id="enc_ryba_desc">
-      <text>Килька в томатном соусе. Обычная консервированная килька. В Зоне этих консервов не мало, так-как за пределами Зоны их почти никто не ест.</text>
+      <text>Kilka in tomato sauce. It's a regular canned kettle. In the zone of these canned goods is not enough, because outside the zone almost no one eats them.</text>
    </string>
    <string id="Vitamin">
-      <text>Витамины</text>
+      <text>Vitamin</text>
    </string>
    <string id="enc_equipment_vitamin">
-      <text>Дневная доза витаминов, разработанных учёными в Зоне специально для смягчения пагубного воздействия радиации и аномалий. Восстанавливают силы, здоровье и улучшают аппетит, а также временно увеличивают переносимый вес в среднем на 1 кг.</text>
+      <text>A daily dose of vitamins developed by scientists in the zone specifically to mitigate the harmful effects of radiation and anomalies. Restore strength, health and improve appetite, as well as temporarily increase the transferable weight by an average of 1 kg.</text>
    </string>
    <string id="Herkules">
-      <text>Геркулес</text>
+      <text>Hercules</text>
    </string>
    <string id="enc_equipment_herkules">
-      <text>Концентрированный продукт питания с креатином. Питателен, а также весьма удобен в использовании и хранении благодаря компактности и небольшому весу. Хорошо восстанавливает силы и временно увеличивает переносимый вес в среднем на 10 кг.</text>
+      <text>Concentrated food with creatine. It is nutritious and very easy to use and store due to its compactness and low weight. It restores strength well and temporarily increases the transferable weight by an average of 10 kg.</text>
    </string>
    <string id="repair_kit">
-      <text>Ремкомплект</text>
+      <text>Repair kit</text>
    </string>
    <string id="enc_equipment_repair_kit">
-      <text>Набор инструментов и приспособлений для ремонта автомашин в походных условиях.</text>
+      <text>A set of tools and devices for repairing cars in camping conditions.</text>
    </string>
    <string id="Barrel">
-      <text>Бочка</text>
+      <text>Barrel</text>
    </string>
    <string id="item_case_pred_name">
-      <text>Документы с Предбанника</text>
+      <text>Documents from the Pre-Bannik</text>
    </string>
    <string id="explosive_charge_name">
-      <text>Взрывчатка</text>
+      <text>Explosives</text>
    </string>
    <string id="explosive_charge_desc">
-      <text>Взрывчатка с часовым механизмом.</text>
+      <text>Explosives with a clock mechanism.</text>
    </string>
    <string id="item_note_jupiter_name">
-      <text>Заметка Юпитер</text>
+      <text>Note from Jupiter</text>
    </string>
    <string id="item_note_jupiter_desc">
-      <text>Заметка с секретными данными из лаборатории в окрестностях Юпитера.</text>
+      <text>A note with classified data from a laboratory near Jupiter.</text>
    </string>
    <string id="item_note_zaton_name">
-      <text>Документы с Затона</text>
+      <text>Documents from Zaton</text>
    </string>
    <string id="item_note_zaton_desc">
-      <text>Документы с секретными сведениями, утраченные экспедицией военных на Затоне.</text>
+      <text>Documents with secret information, lost by the military's expedition at Zaton.</text>
    </string>
    <string id="item_kanifol_name">
-      <text>Канифоль</text>
+      <text>Rosin</text>
    </string>
    <string id="item_kanifol_desc">
-      <text>Коробка с канифолью.</text>
+      <text>Rosin core solder.</text>
    </string>
    <string id="item_textolite_name">
-      <text>Текстолит</text>
+      <text>РўРµxtolite</text>
    </string>
    <string id="item_textolite_desc">
-      <text>Электроизоляционный конструкционный материал.</text>
+      <text>Electrical insulation construction material.</text>
    </string>
    <string id="item_memory_module_name">
-      <text>Трансформатор</text>
+      <text>Memory Module</text>
    </string>
    <string id="item_memory_module_desc">
-      <text>Устройство электротехнического назначения.</text>
+      <text>Electrical device.</text>
    </string>
    <string id="item_toolkit_1_name">
-      <text>Инструменты</text>
+      <text>Toolkit</text>
    </string>
    <string id="item_toolkit_1_desc">
-      <text>Базовый набор инструментов.</text>
+      <text>A basic set of tools.</text>
    </string>
    <string id="item_toolkit_2_name">
-      <text>Инструменты</text>
+      <text>Toolkit</text>
    </string>
    <string id="item_toolkit_2_desc">
-      <text>Набор инструментов для точной работы.</text>
+      <text>A set of tools for accurate work.</text>
    </string>
    <string id="item_toolkit_3_name">
-      <text>Инструменты</text>
+      <text>Toolkit</text>
    </string>
    <string id="item_toolkit_3_desc">
-      <text>Набор инструментов для сверхточной работы.</text>
+      <text>A set of tools for ultra-precise work.</text>
    </string>
    <string id="item_black_box_name">
-      <text>Черный ящик</text>
+      <text>Black Box</text>
    </string>
    <string id="item_black_box_desc">
-      <text>Черный ящик вертолета, потерпевшего крушение над Мертвыми Топями.</text>
+      <text>The black box of the helicopter that crashed over the Dead Tops.</text>
    </string>
    <string id="item_pda_lucky_name">
-      <text>Пугач</text>
+      <text>Scareoch</text>
    </string>
    <string id="item_pda_lucky_desc">
-      <text>Какой-то непонятный прибор, который по словам ученых якобы излучает частоты, способные на коротких дистанциях и на некоторое время отпугивать некоторых монстров. Неэффективен против монстров, способных атаковать на дистанциях, превышающих радиус действия прибора. Прибор питается специфическим и неопознанным по сих пор видом энергии, которая присутствует в Зоне. Прибор достаточно быстро разряжается, но со временем снова начинает аккумулировать эту неизвестную энергию. Устанавливается в слот для детекторов аномалий.</text>
+      <text>Some incomprehensible device, which according to scientists supposedly emits frequencies that are able to short distances and for a while to scare off some monsters. Ineffective against monsters that can attack at distances greater than the range of the device. The device feeds on a specific and unidentified type of energy, which is present in the zone. The device quickly discharges, but over time again begins to accumulate this unknown energy. Installed in the slot for anomaly detectors.</text>
    </string>
    <string id="item_pda_tiran_name">
-      <text>Калькулятор</text>
+      <text>Calculator</text>
    </string>
    <string id="item_pda_tiran_desc">
-      <text>Обычный научный калькурятор.</text>
+      <text>It's a common scientific calculator</text>
    </string>
    <string id="item_msl_pda_name">
-      <text>Электронная карточка</text>
+      <text>E-card</text>
    </string>
    <string id="item_msl_pda_desc">
-      <text>Электронная карточка доступа от какого-то секретного хранилища в Припяти.</text>
+      <text>An electronic access card from some secret storage facility in Pripyat.</text>
    </string>
    <string id="container_green_name">
-      <text>Зеленый контейнер</text>
+      <text>Green container</text>
    </string>
    <string id="container_green_desc">
-      <text>Стальной контейнер, предназначенный для хранения различных предметов при длительном воздействии радиации. В него можно положить даже продукты, не боясь получить при их употреблении дозу радиации. На крышке приклеена наклейка с надписью "Зелень". Контейнер заперт, в него вмонтирован весьма хитрый замок. Судя по весу и грохоту при встряхивании, внутри что-то есть.</text>
+      <text>A steel container designed to store various items with long-term radiation exposure. It can be put even products, not afraid to get a dose of radiation when they are consumed. On the lid is glued a sticker with the inscription "Greens." The container is locked, it is mounted a very cunning lock. Judging by the weight and rumbling when shaking, there is something inside.</text>
    </string>
    <string id="item_predatel_card_name">
-      <text>Удостоверение предателя</text>
+      <text>Traitor's id</text>
    </string>
    <string id="item_predatel_card_desc">
-      <text>Удостоверение долговца-предателя.</text>
+      <text>The identity of a traitor.</text>
    </string>
    <string id="item_playboy_name">
-      <text>Журнал</text>
+      <text>Playboy</text>
    </string>
    <string id="item_playboy_desc">
-      <text>Весьма занимательный журнал.</text>
+      <text>It's a very entertaining magazine.</text>
    </string>
    <string id="st_id_simple">
-      <text>Детектор "Отклик"</text>
+      <text>Р”РµС‚РµРєС‚РѕСЂ "РћС‚РєР»РёРє"</text>
    </string>
    <string id="enc_id_simple">
-      <text>Устаревшая модель детектора аномальной активности первого поколения. Реагирует световым сигналом, при приближении к аномалиям. Кроме того, может регистрировать присутствие артефактов и измерять расстояние до ближайшего из них. Расстояние до артефакта определяется периодичностью светового сигнала. Для надежности показания следует снимать в неподвижном состоянии.</text>
+      <text>РЈСЃС‚Р°СЂРµРІС€Р°СЏ РјРѕРґРµР»СЊ РґРµС‚РµРєС‚РѕСЂР° Р°РЅРѕРјР°Р»СЊРЅРѕР№ Р°РєС‚РёРІРЅРѕСЃС‚Рё РїРµСЂРІРѕРіРѕ РїРѕРєРѕР»РµРЅРёСЏ. Р РµР°РіРёСЂСѓРµС‚ СЃРІРµС‚РѕРІС‹Рј СЃРёРіРЅР°Р»РѕРј, РїСЂРё РїСЂРёР±Р»РёР¶РµРЅРёРё Рє Р°РЅРѕРјР°Р»РёСЏРј. РљСЂРѕРјРµ С‚РѕРіРѕ, РјРѕР¶РµС‚ СЂРµРіРёСЃС‚СЂРёСЂРѕРІР°С‚СЊ РїСЂРёСЃСѓС‚СЃС‚РІРёРµ Р°СЂС‚РµС„Р°РєС‚РѕРІ Рё РёР·РјРµСЂСЏС‚СЊ СЂР°СЃСЃС‚РѕСЏРЅРёРµ РґРѕ Р±Р»РёР¶Р°Р№С€РµРіРѕ РёР· РЅРёС…. Р Р°СЃСЃС‚РѕСЏРЅРёРµ РґРѕ Р°СЂС‚РµС„Р°РєС‚Р° РѕРїСЂРµРґРµР»СЏРµС‚СЃСЏ РїРµСЂРёРѕРґРёС‡РЅРѕСЃС‚СЊСЋ СЃРІРµС‚РѕРІРѕРіРѕ СЃРёРіРЅР°Р»Р°. Р”Р»СЏ РЅР°РґРµР¶РЅРѕСЃС‚Рё РїРѕРєР°Р·Р°РЅРёСЏ СЃР»РµРґСѓРµС‚ СЃРЅРёРјР°С‚СЊ РІ РЅРµРїРѕРґРІРёР¶РЅРѕРј СЃРѕСЃС‚РѕСЏРЅРёРё.</text>
    </string>
    <string id="st_id_advanced">
-      <text>Детектор "Скаут"</text>
+      <text>Р”РµС‚РµРєС‚РѕСЂ "РЎРєР°СѓС‚"</text>
    </string>
    <string id="enc_id_advanced">
-      <text>Детектор аномальной активности второго поколения. Снабжён локатором аномальных образований и светодиодным табло для отображения направления к артефакту и расстояния до него.</text>
+      <text>Р”РµС‚РµРєС‚РѕСЂ Р°РЅРѕРјР°Р»СЊРЅРѕР№ Р°РєС‚РёРІРЅРѕСЃС‚Рё РІС‚РѕСЂРѕРіРѕ РїРѕРєРѕР»РµРЅРёСЏ. РЎРЅР°Р±Р¶С‘РЅ Р»РѕРєР°С‚РѕСЂРѕРј Р°РЅРѕРјР°Р»СЊРЅС‹С… РѕР±СЂР°Р·РѕРІР°РЅРёР№ Рё СЃРІРµС‚РѕРґРёРѕРґРЅС‹Рј С‚Р°Р±Р»Рѕ РґР»СЏ РѕС‚РѕР±СЂР°Р¶РµРЅРёСЏ РЅР°РїСЂР°РІР»РµРЅРёСЏ Рє Р°СЂС‚РµС„Р°РєС‚Сѓ Рё СЂР°СЃСЃС‚РѕСЏРЅРёСЏ РґРѕ РЅРµРіРѕ.</text>
    </string>
    <string id="st_id_elite">
-      <text>Детектор "Поиск"</text>
+      <text>Р”РµС‚РµРєС‚РѕСЂ "РџРѕРёСЃРє"</text>
    </string>
    <string id="enc_id_elite">
-      <text>Детектор-сканер третьего поколения, используемый учёными. Благодаря трём независимым датчикам приблизительное расположение артефакта относительно детектора показывается на специальном экране.</text>
+      <text>Р”РµС‚РµРєС‚РѕСЂ-СЃРєР°РЅРµСЂ С‚СЂРµС‚СЊРµРіРѕ РїРѕРєРѕР»РµРЅРёСЏ, РёСЃРїРѕР»СЊР·СѓРµРјС‹Р№ СѓС‡С‘РЅС‹РјРё. Р‘Р»Р°РіРѕРґР°СЂСЏ С‚СЂС‘Рј РЅРµР·Р°РІРёСЃРёРјС‹Рј РґР°С‚С‡РёРєР°Рј РїСЂРёР±Р»РёР·РёС‚РµР»СЊРЅРѕРµ СЂР°СЃРїРѕР»РѕР¶РµРЅРёРµ Р°СЂС‚РµС„Р°РєС‚Р° РѕС‚РЅРѕСЃРёС‚РµР»СЊРЅРѕ РґРµС‚РµРєС‚РѕСЂР° РїРѕРєР°Р·С‹РІР°РµС‚СЃСЏ РЅР° СЃРїРµС†РёР°Р»СЊРЅРѕРј СЌРєСЂР°РЅРµ.</text>
    </string>
    <string id="st_id_elite_plus">
-      <text>Прототип детектора "Сварог"</text>
+      <text>РџСЂРѕС‚РѕС‚РёРї РґРµС‚РµРєС‚РѕСЂР° "РЎРІР°СЂРѕРі"</text>
    </string>
    <string id="enc_id_elite_plus">
-      <text>Прототип сканера аномальных зон расширенной функциональности. Добавлена программа распознавания статичных зон аномальной активности, которые имеются в базе данных; при этом сохранена возможность обнаружения артефактов. Расположение аномальных зон и артефактов относительно детектора отображаются на специальном экране. Так же детектор способен при наличии беспроводного соединения с GPS-навигатором передавать на него координаты находящихся поблизости аномалий.</text>
+      <text>РџСЂРѕС‚РѕС‚РёРї СЃРєР°РЅРµСЂР° Р°РЅРѕРјР°Р»СЊРЅС‹С… Р·РѕРЅ СЂР°СЃС€РёСЂРµРЅРЅРѕР№ С„СѓРЅРєС†РёРѕРЅР°Р»СЊРЅРѕСЃС‚Рё. Р”РѕР±Р°РІР»РµРЅР° РїСЂРѕРіСЂР°РјРјР° СЂР°СЃРїРѕР·РЅР°РІР°РЅРёСЏ СЃС‚Р°С‚РёС‡РЅС‹С… Р·РѕРЅ Р°РЅРѕРјР°Р»СЊРЅРѕР№ Р°РєС‚РёРІРЅРѕСЃС‚Рё, РєРѕС‚РѕСЂС‹Рµ РёРјРµСЋС‚СЃСЏ РІ Р±Р°Р·Рµ РґР°РЅРЅС‹С…; РїСЂРё СЌС‚РѕРј СЃРѕС…СЂР°РЅРµРЅР° РІРѕР·РјРѕР¶РЅРѕСЃС‚СЊ РѕР±РЅР°СЂСѓР¶РµРЅРёСЏ Р°СЂС‚РµС„Р°РєС‚РѕРІ. Р Р°СЃРїРѕР»РѕР¶РµРЅРёРµ Р°РЅРѕРјР°Р»СЊРЅС‹С… Р·РѕРЅ Рё Р°СЂС‚РµС„Р°РєС‚РѕРІ РѕС‚РЅРѕСЃРёС‚РµР»СЊРЅРѕ РґРµС‚РµРєС‚РѕСЂР° РѕС‚РѕР±СЂР°Р¶Р°СЋС‚СЃСЏ РЅР° СЃРїРµС†РёР°Р»СЊРЅРѕРј СЌРєСЂР°РЅРµ. РўР°Рє Р¶Рµ РґРµС‚РµРєС‚РѕСЂ СЃРїРѕСЃРѕР±РµРЅ РїСЂРё РЅР°Р»РёС‡РёРё Р±РµСЃРїСЂРѕРІРѕРґРЅРѕРіРѕ СЃРѕРµРґРёРЅРµРЅРёСЏ СЃ GPS-РЅР°РІРёРіР°С‚РѕСЂРѕРј РїРµСЂРµРґР°РІР°С‚СЊ РЅР° РЅРµРіРѕ РєРѕРѕСЂРґРёРЅР°С‚С‹ РЅР°С…РѕРґСЏС‰РёС…СЃСЏ РїРѕР±Р»РёР·РѕСЃС‚Рё Р°РЅРѕРјР°Р»РёР№.</text>
    </string>
 	<string id="st_drug_coagulant">
-		<text>Барвинок</text>
+		<text>Р‘Р°СЂРІРёРЅРѕРє</text>
 	</string>
 	<string id="st_drug_coagulant_descr">
-		<text>«Викасол» - синтетический аналог витамина К. Основное действие заключается в повышении свёртываемости крови. Пользуется спросом среди сталкеров, поскольку позволяет организму быстрее рубцевать рваные раны. Обладает продолжительным действием.</text>
+		<text>В«Р’РёРєР°СЃРѕР»В» - СЃРёРЅС‚РµС‚РёС‡РµСЃРєРёР№ Р°РЅР°Р»РѕРі РІРёС‚Р°РјРёРЅР° Рљ. РћСЃРЅРѕРІРЅРѕРµ РґРµР№СЃС‚РІРёРµ Р·Р°РєР»СЋС‡Р°РµС‚СЃСЏ РІ РїРѕРІС‹С€РµРЅРёРё СЃРІС‘СЂС‚С‹РІР°РµРјРѕСЃС‚Рё РєСЂРѕРІРё. РџРѕР»СЊР·СѓРµС‚СЃСЏ СЃРїСЂРѕСЃРѕРј СЃСЂРµРґРё СЃС‚Р°Р»РєРµСЂРѕРІ, РїРѕСЃРєРѕР»СЊРєСѓ РїРѕР·РІРѕР»СЏРµС‚ РѕСЂРіР°РЅРёР·РјСѓ Р±С‹СЃС‚СЂРµРµ СЂСѓР±С†РµРІР°С‚СЊ СЂРІР°РЅС‹Рµ СЂР°РЅС‹. РћР±Р»Р°РґР°РµС‚ РїСЂРѕРґРѕР»Р¶РёС‚РµР»СЊРЅС‹Рј РґРµР№СЃС‚РІРёРµРј.</text>
 	</string>
 	<string id="st_drug_psy_blockade">
-		<text>Пси-блокада</text>
+		<text>РџСЃРё-Р±Р»РѕРєР°РґР°</text>
 	</string>
 	<string id="st_drug_psy_blockade_descr">
-		<text>Наркотический препарат, блокирующий лавинообразные нервные импульсы. Интересен побочный эффект: после приёма препарата наблюдается кратковременное исчезновение каких-либо эмоций. В Зоне используется для противодействия аномальным полям повышенной пси-активности; за её пределами применения не нашёл. Обладает продолжительным действием.</text>
+		<text>РќР°СЂРєРѕС‚РёС‡РµСЃРєРёР№ РїСЂРµРїР°СЂР°С‚, Р±Р»РѕРєРёСЂСѓСЋС‰РёР№ Р»Р°РІРёРЅРѕРѕР±СЂР°Р·РЅС‹Рµ РЅРµСЂРІРЅС‹Рµ РёРјРїСѓР»СЊСЃС‹. РРЅС‚РµСЂРµСЃРµРЅ РїРѕР±РѕС‡РЅС‹Р№ СЌС„С„РµРєС‚: РїРѕСЃР»Рµ РїСЂРёС‘РјР° РїСЂРµРїР°СЂР°С‚Р° РЅР°Р±Р»СЋРґР°РµС‚СЃСЏ РєСЂР°С‚РєРѕРІСЂРµРјРµРЅРЅРѕРµ РёСЃС‡РµР·РЅРѕРІРµРЅРёРµ РєР°РєРёС…-Р»РёР±Рѕ СЌРјРѕС†РёР№. Р’ Р—РѕРЅРµ РёСЃРїРѕР»СЊР·СѓРµС‚СЃСЏ РґР»СЏ РїСЂРѕС‚РёРІРѕРґРµР№СЃС‚РІРёСЏ Р°РЅРѕРјР°Р»СЊРЅС‹Рј РїРѕР»СЏРј РїРѕРІС‹С€РµРЅРЅРѕР№ РїСЃРё-Р°РєС‚РёРІРЅРѕСЃС‚Рё; Р·Р° РµС‘ РїСЂРµРґРµР»Р°РјРё РїСЂРёРјРµРЅРµРЅРёСЏ РЅРµ РЅР°С€С‘Р». РћР±Р»Р°РґР°РµС‚ РїСЂРѕРґРѕР»Р¶РёС‚РµР»СЊРЅС‹Рј РґРµР№СЃС‚РІРёРµРј.</text>
 	</string>
 	<string id="st_drug_radioprotector">
-		<text>Радиопротектор</text>
+		<text>Р Р°РґРёРѕРїСЂРѕС‚РµРєС‚РѕСЂ</text>
 	</string>
 	<string id="st_drug_radioprotector_descr">
-		<text>Радиопротектор «Индралин-Б190» входил в состав личных аптечек работников АЭС. Появился в Зоне как замена излишне токсичному цистамину гидрохлорида (РС1). Уменьшает воздействие гамма-излучения на ткани живого организма. Данный препарат желательно применять превентивно, до облучения, поскольку он не оказывает мгновенного эффекта. Обладает продолжительным действием.</text>
+		<text>Р Р°РґРёРѕРїСЂРѕС‚РµРєС‚РѕСЂ В«РРЅРґСЂР°Р»РёРЅ-Р‘190В» РІС…РѕРґРёР» РІ СЃРѕСЃС‚Р°РІ Р»РёС‡РЅС‹С… Р°РїС‚РµС‡РµРє СЂР°Р±РѕС‚РЅРёРєРѕРІ РђР­РЎ. РџРѕСЏРІРёР»СЃСЏ РІ Р—РѕРЅРµ РєР°Рє Р·Р°РјРµРЅР° РёР·Р»РёС€РЅРµ С‚РѕРєСЃРёС‡РЅРѕРјСѓ С†РёСЃС‚Р°РјРёРЅСѓ РіРёРґСЂРѕС…Р»РѕСЂРёРґР° (Р РЎ1). РЈРјРµРЅСЊС€Р°РµС‚ РІРѕР·РґРµР№СЃС‚РІРёРµ РіР°РјРјР°-РёР·Р»СѓС‡РµРЅРёСЏ РЅР° С‚РєР°РЅРё Р¶РёРІРѕРіРѕ РѕСЂРіР°РЅРёР·РјР°. Р”Р°РЅРЅС‹Р№ РїСЂРµРїР°СЂР°С‚ Р¶РµР»Р°С‚РµР»СЊРЅРѕ РїСЂРёРјРµРЅСЏС‚СЊ РїСЂРµРІРµРЅС‚РёРІРЅРѕ, РґРѕ РѕР±Р»СѓС‡РµРЅРёСЏ, РїРѕСЃРєРѕР»СЊРєСѓ РѕРЅ РЅРµ РѕРєР°Р·С‹РІР°РµС‚ РјРіРЅРѕРІРµРЅРЅРѕРіРѕ СЌС„С„РµРєС‚Р°. РћР±Р»Р°РґР°РµС‚ РїСЂРѕРґРѕР»Р¶РёС‚РµР»СЊРЅС‹Рј РґРµР№СЃС‚РІРёРµРј.</text>
 	</string>
 	<string id="item_dar_pass_flash_name">
-      <text>Приемопередатчик</text>
+      <text>РџСЂРёРµРјРѕРїРµСЂРµРґР°С‚С‡РёРє</text>
    </string>
    <string id="item_dar_pass_flash_desc">
-      <text>Устройство для передачи и приёма сигнала между двумя физически разными средами системы связи.</text>
+      <text>РЈСЃС‚СЂРѕР№СЃС‚РІРѕ РґР»СЏ РїРµСЂРµРґР°С‡Рё Рё РїСЂРёС‘РјР° СЃРёРіРЅР°Р»Р° РјРµР¶РґСѓ РґРІСѓРјСЏ С„РёР·РёС‡РµСЃРєРё СЂР°Р·РЅС‹РјРё СЃСЂРµРґР°РјРё СЃРёСЃС‚РµРјС‹ СЃРІСЏР·Рё.</text>
    </string>
    <string id="item_evm_name">
-      <text>ЭВМ</text>
+      <text>Р­Р’Рњ</text>
    </string>
    <string id="item_evm_desc">
-      <text>Любимая электронно-вычислительная машина доцента Придурова.</text>
+      <text>Р›СЋР±РёРјР°СЏ СЌР»РµРєС‚СЂРѕРЅРЅРѕ-РІС‹С‡РёСЃР»РёС‚РµР»СЊРЅР°СЏ РјР°С€РёРЅР° РґРѕС†РµРЅС‚Р° РџСЂРёРґСѓСЂРѕРІР°.</text>
    </string>
 </string_table>
