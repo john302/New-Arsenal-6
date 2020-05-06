@@ -1,294 +1,294 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="bandit_outfit_description">
-		<text>Традиционная одежда бандита - кожаная куртка со вшитыми броневыми элементами. Дает защиту, крайне недостаточную в жестких условиях Зоны.</text>
+		<text>Traditional outfit of a bandit - a leather jacket with kevlar elements. Provides protection highly insufficient for the Zone&apos;s severe conditions.</text>
 	</string>
 	<string id="bandit_outfit_description_m">
-		<text>Обычный слабенький бандитский бронежилет, но в подкладку вшито кольчужное полотно. Сделать такой под силу почти каждому, но терпения хватит далеко не всем.</text>
+		<text>>Common weak bandit body armor with mail plates sewn in its backing. Almost everyone can do it, but not everyone by far will have enough patience to.</text>
 	</string>
 	<string id="bandit_outfit_name">
-		<text>Бандитская куртка</text>
+		<text>Bandit jacket</text>
 	</string>
 	<string id="bandit_outfit_name_m">
-		<text>Кольчужная куртка</text>
+		<text>Mail Jacket</text>
 	</string>
 	<string id="dolg_outfit_description">
-		<text>Производится одним из оборонных киевских НИИ на заказ группировки "Долг". Простота и надежность базовой модели ПСЗ-9 в сочетании с новыми материалами предоставляет хорошую защиту от различных вредных воздействий, включая огнестрельные повреждения. Из-за отсутствие системы защиты дыхания бронежилет требует доработки.</text>
+		<text>Produced by one of Kiev&apos;s defence research institutes and commissioned by the Duty faction. It is as simple and reliable as the standard PSZ-9 model, but due to the new materials, it provides good protection from various harmful impacts, including firearm damage. The vest still needs some work because it has no breathing protection system.</text>
 	</string>
 	<string id="dolg_outfit_description_m1">
-		<text>Долговский бронекостюм с улучшенной защитой от укусов и порезов.</text>
+		<text>Duty armor suit with enhanced parameters of protection against bites and cuts.</text>
 	</string>
 	<string id="dolg_outfit_name">
-		<text>ПСЗ-9д "Броня Долга"</text>
+		<text>PSZ-9d Duty Armor</text>
 	</string>
 	<string id="dolg_outfit_name_m1">
-		<text>Охотничий ПСЗ-9д</text>
+		<text>Hunter PSZ-9d</text>
 	</string>
 	<string id="dolg_scientific_outfit_description">
-		<text>Отличный защитный костюм для Зоны. Сталкеры ценят его за сочетание отличных противоаномальных качеств и противопулевой защиты. В составе: комбинезон ПСЗ-9д, система дыхания с замкнутым циклом, встроенная система подавления действия аномальных полей. Предоставляет качественную защиту от пулевого и осколочного попадания.</text>
+		<text>A wonderful protective suit for the Zone. Stalkers appreciate it because it combines excellent anomaly-proof and bullet-proof qualities. It includes the PSZ-9d suit, a closed cycle breathing system and an integrated system of anomalous field suppression. It provides quality bullet and splinter protection.</text>
 	</string>
 	<string id="dolg_scientific_outfit_name">
-		<text>ПСЗ-9Мд "Универсальная защита"</text>
+		<text>PSZ-9Md Universal Protection</text>
 	</string>
 	<string id="ecolog_outfit_description">
-		<text>Созданный для работы в условиях Зоны костюм химической защиты ССП-99. Используется экспедициями ученых и сотрудничающих с ними сталкеров-экологов. Встроенная система фильтрации воздуха и кондиционирования. Не рассчитан на ведение боевых действий.</text>
+		<text>A SSP-99 chemical protection suit specially designed for the Zone conditions. It is used by scientific expeditions and the eco-stalkers who cooperate with them. It has an integrated air-filtering and air-conditioning system. It is heat and electricity resistant, provides good protection from radiation and biological anomalies. It is resistant to chemically aggressive environments. It is not designed for combat, so it provides neither bullet, nor splinter protection.</text>
 	</string>
 	<string id="ecolog_outfit_name">
-		<text>ССП-99 "Эколог"</text>
+		<text>SSP-99 Ecologist</text>
 	</string>
 	<string id="exo_outfit_description">
-		<text>Экспериментальный образец военного экзоскелета. В серийное производство так и не попал, в виду чрезвычайной дороговизны и некоторых ошибок в проектировании. Не смотря на это, выпускается малыми партиями на подпольных предприятиях в Китае. Данный экзоскелет относится к третьему поколению. В нем устранены конструктивные недостатки, кардинально снижавшие подвижность, а также усилена броня. Предоставляет великолепную защиту от пулевого и осколочного попадания, но не гарантирует стойкости к аномалиям.</text>
+		<text>An experimental sample of a military exoskeleton. In the batch production and did not hit, in view of the extraordinary cost and some errors in the design. In spite of this, it is produced in small batches at underground enterprises in China. This exoskeleton belongs to the third generation. It eliminated design flaws, cardinally reduced mobility, and reinforced armor. Provides excellent protection against bullet and shrapnel hits, but does not guarantee resistance to anomalies.</text>
 	</string>
 	<string id="exo_outfit_description_m1">
-		<text>Прототип монолитовского экзоскелета второго поколения с прибором ночного видения с цифровой фильтрацией сигнала и системой защиты от пси-излучения.</text>
+		<text>Prototype of a second-generation monolithic exoskeleton with a night vision device with digital signal filtering and a system for protecting against psi radiation.</text>
 	</string>
 	<string id="exo_outfit_name">
-		<text>Экзоскелет</text>
+		<text>Exoskeleton PNB-4UZ</text>
 	</string>
 	<string id="killer_outfit_description">
-		<text>Комбинезон сталкера из группировки "Наемники". За основу взяты образцы экипировки спецназа западных армий. За счет специальной обработки ткани усилена устойчивость брони при физическом смещении пластин. По защитным характеристикам немного превосходит армейские бронежилеты серии ПСЗ-7.</text>
+		<text>Stalker suit from the Merc faction. Its design is based on the suit used by the special forces of the Western armies. Due to a special treatment of the fabric, the armor has a strengthened stability during the physical movement of its plates. Its protective properties are slightly better then those of the PSZ-7 military bulletproof suits.</text>
 	</string>
 	<string id="killer_outfit_description_m1">
-		<text>В подкладку куртки вшита кольчужная сетка, повышающая защиту от огнестрельного оружия, а также от укусов монстров. В комплект также включен ПНВ.</text>
+		<text>There is chain mail sown into the lining of the coat, which raises the level of protection against firearm attack and monster bites. A PNV is also included in the set.</text>
 	</string>
 	<string id="killer_outfit_name">
-		<text>Комбинезон наемника</text>
+		<text>РљРѕРјР±РёРЅРµР·РѕРЅ РЅР°РµРјРЅРёРєР°</text>
 	</string>
 	<string id="killer_outfit_name_m1">
-		<text>Укрепленный комбез</text>
+		<text>Merc suit</text>
 	</string>
 	<string id="military_outfit_description">
-		<text>Армейский бронекостюм СКАТ-9М создан для проведений штурмовых операций в зонах активности аномалий. В составе: тяжелый армейский бронекостюм серии ПСЗ-12п, встроенный компенсационный костюм, шлем Сфера-12М. Предоставляет великолепную защиту от пулевого и осколочного попадания, при этом не снижает подвижности солдата. В наличие сбалансированная система защиты от аномального воздействия.</text>
+		<text>This Skat-9M bulletproof military suit is designed for assault operations in areas of anomalous activity. It includes a PSZ-12p heavy military bulletproof suit, an integrated compensation suit and a Sphere-12M helmet. It provides perfect protection from bullets and splinters and it doesnвЂ™t decrease the soldierвЂ™s mobility. It has a balanced system of anomaly protection.</text>
 	</string>
 	<string id="military_outfit_name">
-		<text>Армейский бронекостюм</text>
+		<text>Army bulletproof suit.</text>
 	</string>
 	<string id="monolit_outfit_description">
-		<text>Комбинезон сталкера группировки "Монолит", производитель неизвестен. По защитным характеристикам немного уступает армейскому бронежилету серии ПСЗ-9а. По структуре напоминает широко распространенные среди нейтральных сталкеров комбинезоны, в которых бронежилет соединяется с костюмом противорадиационной защиты. Неплохо защищает от слабого стрелкового оружия. Уровень защиты от аномальной активности оставляет желать лучшего из-за отсутствия системы фильтрации воздуха.</text>
+		<text>Stalker suit from the Monolith faction. The producer is unknown. Its protective properties are slightly worse then those of the PSZ-9a military bulletproof vest. Its structure is similar to the suit popular with neutral stalkers which combines a bulletproof vest and a radiation protection suit. It provides good protection from gunfire. Its level of anomaly protection is low due to the absence of an air filtering system.</text>
 	</string>
 	<string id="monolit_outfit_name">
-		<text>Комбинезон монолита</text>
+		<text>Monolith suit</text>
 	</string>
 	<string id="novice_outfit_description_m">
-		<text>Эту куртку сняли с трупа одного из сталкеров, умерших в аномалии "кисель". Пролежав долгое время в аномалии, куртка обрела свойство ускорять метаболизм.</text>
+		<text>They took this coat off of the body of one of the stalkers who died in the anomaly &quot;fruit punch&quot;. Having laid a long time in the anomaly, the coat obtained the ability to speed up metabolism.</text>
 	</string>
 	<string id="novice_outfit_name_m">
-		<text>Аномальная кожанка</text>
+		<text>Skinner anomaly</text>
 	</string>
 	<string id="outfit_soldier_description">
-		<text>Обычная плотная кожаная куртка, каких много. Слегка усиливает противопулевую и осколочную защиту. Неэффективна против аномальных и других воздействий.</text>
+		<text>An ordinary thick jacket, one of the many. It slightly increases bullet and splinter protection. It does not protect from anomalies and other affects.</text>
 	</string>
 	<string id="outfit_soldier_name">
-		<text>Кожаная куртка</text>
+		<text>Leather jacket</text>
 	</string>
 	<string id="protection_outfit_description">
-		<text>Высококачественный модифицированный комбинезон ССП-99. Добавлена защита торса от пулевого и осколочного повреждения. Предназначен для экипировки охраны научных экспедиций. Эффективная защита от радиации и биологических аномалий. Стоек к химически-агрессивным средам и другим вредным для организма воздействиям.</text>
+		<text>High quality modified SSP-99 suit. It provides increased body protection from bullet and splinter damage. It is designed for the guards working with scientific expeditions. It provides good protection from radiation and biological anomalies. It is resistant to chemically aggressive environments and other effects dangerous to the body.</text>
 	</string>
 	<string id="protection_outfit_name">
-		<text>Комбинезон ССП-99М</text>
+		<text>SSP-99M suit</text>
 	</string>
 	<string id="scientific_outfit_description">
-		<text>Производимый одним из оборонных киевских НИИ данный комбинезон предоставляет отличную альтернативу другим сталкеровским комбинезонам, изготовленным в кустарных условиях. Представляет из себя отличное сочетание бронированного комбинезона, системы дыхания с замкнутым циклом, а также встроенной системы подавления действия аномальных полей. За счет удачного подбора материалов является хорошим выбором. Единственный недостаток - его цена.</text>
+		<text>This suit was produced by one of Kiev&apos;s defence research institutes and represents an excellent alternative to stalker hand-made suits. It is an excellent combination of an bulletproof vest, a closed cycle breathing system and an integrated system of anomalous field suppression. Due to the perfect choice of the materials, it is a good choice. The only disadvantage is its price.</text>
 	</string>
 	<string id="scientific_outfit_name">
-		<text>Комбинезон "СЕВА"</text>
+		<text>SEVA suit</text>
 	</string>
 	<string id="specnaz_outfit_description_m1">
-		<text>Ткань костюма пропитана стрептоцидовой мазью, ускоряющей заживление ран.</text>
+		<text>The fabric of the suit is saturated with a streptozoidal lotion, which speeds up the healing of wounds.</text>
 	</string>
 	<string id="specnaz_outfit_name_m1">
-		<text>Лечебный Берилл</text>
+		<text>Healing Beril</text>
 	</string>
 	<string id="specops_outfit_description">
-		<text>Модифицированная для работы в условиях Зоны, экипировка армейского спецназа - Берилл-5М. В составе: армейский бронежилет серии ПСЗ-9а с бериллиевым напылением, шлем Сфера-08. Предназначен для штурмовых операций в областях с повышенным радиационным фоном. Слабоэффективен в условиях высокой аномальной активности.</text>
+		<text>A Berill-5M special forces suit modified for the Zone environment. It includes a PSZ-9a military bulletproof vest with beryllium coating and a Sphere-08 helmet. It is designed for assault operations in areas with high background radiation. Its level of anomaly protection is low.</text>
 	</string>
 	<string id="specops_outfit_name">
-		<text>Бронекостюм Берилл-5М</text>
+		<text>Berill-5M armored suit</text>
 	</string>
 	<string id="stalker_outfit_description">
-		<text>Производимый "народными умельцами" комбинезон сталкера представляет собой эффективное сочетание легкого армейского бронежилета и комбинезона из прорезиненной ткани. Усилен за счет встроенных кевларовых пластин. Неплохо защищает от слабого стрелкового оружия. В целом крайне недостаточен для глубоких рейдов и серьезных операций в узлах Зоны.</text>
+		<text>Produced by &quot;folk craftsmen,&quot; the stalker&apos;s overall is an effective combination of light army body armor and overalls made of rubberized fabric. Enhanced due to built-in Kevlar plates. Good protection against weak small arms. In general, it is extremely inadequate for deep raids and serious operations at the nodes of the Zone.</text>
 	</string>
 	<string id="stalker_outfit_description_m1">
-		<text>Ходят легенды о том, что призрачный сталкер никогда не носит с собой аптечки. Все на нем заживает, как на собаке. Говорят, что у него необычный комбинезон и что он его из аномалии достал.</text>
+		<text>Rumor has it that the ghost stalker never carries a first aid kit with him. Everything heals on him like on a dog. They say that he has an unusual suit that he got on an anomaly.</text>
 	</string>
 	<string id="stalker_outfit_description_m2">
-		<text>Бывший хозяин этой вещи был настоящим туристом, и, видать, не раз хаживал в тяжелые, на грани человеческих возможностей походы. Он знал, как правильно распределить вес, который нес и каким вещам отдать предпочтение. Карманы на куртке и грамотно подобранный рюкзак позволяют нести больший вес.</text>
+		<text>The former owner of this thing was a real tourist and, it seems, often went on very difficult, on the verge of human endurance, hiking trips. He knew how to distribute correctly the weight that he carried, and which things to give preference to. The coat pockets and the educated choice of the backpack allow its owner to carry a heavy weight.</text>
 	</string>
 	<string id="stalker_outfit_name">
-		<text>Комбинезон сталкера</text>
+		<text>Stalker suit</text>
 	</string>
 	<string id="stalker_outfit_name_m1">
-		<text>Комбинезон Призрака</text>
+		<text>Ghost suit</text>
 	</string>
 	<string id="stalker_outfit_name_m2">
-		<text>Комбинезон туриста</text>
+		<text>Tourist suit</text>
 	</string>
 	<string id="svoboda_heavy_outfit_description">
-		<text>Производимый ремесленниками группировки "Свобода" усиленный комбинезон сталкера. Средний армейский бронежилет плюс накладные усиливающие циркониевые элементы дают неплохую защиту от автоматных пуль и осколков на различных дистанциях. Материал костюма состоит из двух слоев: специально обработанной кожи и ткани с асбестовой нитью. Дает некоторую защиту от различных аномальных воздействий и радиации.</text>
+		<text>Reinforced stalker suit produced by the gunsmiths of the Freedom faction. It is made up of a medium military bulletproof vest plated with reinforcing zirconium elements which provide good protection from rifle bullets and splinters from medium and long range. The material of the suit consists of two layers: specially treated leather and fabric with asbestos yarn. The suit provides good protection from radiation and various weak anomalies.</text>
 	</string>
 	<string id="svoboda_heavy_outfit_name">
-		<text>Комбинезон "Страж свободы"</text>
+		<text>Guardian of Freedom suit</text>
 	</string>
 	<string id="svoboda_light_outfit_description">
-		<text>Производимый ремесленниками группировки "Свобода" облегченный комбинезон сталкера. Легкий армейский бронежилет плюс накладные усиливающие кевларовые пластины. Способен защитить от слабого оружия. Ткань комбинезона обработана специальным составом, повышающим сопротивление аномальной активности.</text>
+		<text>Light stalker suit produced by the gunsmiths of the Freedom faction. It consists of a light military bulletproof vest with reinforcing kevlar plates. It can protect from weak weapons. The fabric of the suit is treated with a special mixture which increases anomaly activity resistance.</text>
 	</string>
 	<string id="svoboda_light_outfit_name">
-		<text>Комбинезон "Ветер свободы"</text>
+		<text>Wind of Freedom suit</text>
 	</string>
 	<string id="svoboda_outfit_name_m1">
-		<text>Модифицированный комбинезон свободы</text>
+		<text>РњРѕРґРёС„РёС†РёСЂРѕРІР°РЅРЅС‹Р№ РєРѕРјР±РёРЅРµР·РѕРЅ СЃРІРѕР±РѕРґС‹</text>
 	</string>
 	<string id="svoboda_outfit_description_m1">
-		<text>В комбинезон интегрирована металлическая сетка, защищающая от электрических и магнитных полей. В комплект также включен прибор ночного видения.</text>
+		<text>Р’ РєРѕРјР±РёРЅРµР·РѕРЅ РёРЅС‚РµРіСЂРёСЂРѕРІР°РЅР° РјРµС‚Р°Р»Р»РёС‡РµСЃРєР°СЏ СЃРµС‚РєР°, Р·Р°С‰РёС‰Р°СЋС‰Р°СЏ РѕС‚ СЌР»РµРєС‚СЂРёС‡РµСЃРєРёС… Рё РјР°РіРЅРёС‚РЅС‹С… РїРѕР»РµР№. Р’ РєРѕРјРїР»РµРєС‚ С‚Р°РєР¶Рµ РІРєР»СЋС‡РµРЅ РїСЂРёР±РѕСЂ РЅРѕС‡РЅРѕРіРѕ РІРёРґРµРЅРёСЏ.</text>
 	</string>
 	<string id="mp_exo_outfit_description">
-		<text>Экзоскелет превосходно защищает от пулевого и осколочного поражения, однако снижает подвижность. Уязвим для бронебойных патронов.</text>
+		<text>The exoskeleton protects marvelously from bullet and splinter fire, however it lowers mobility. It is vulnerable to armor bullets.</text>
 	</string>
 	<string id="mp_exo_outfit_name">
-		<text>Экзоскелет</text>
+		<text>Exoskeleton PNB-4UZ</text>
 	</string>
 	<string id="mp_military_outfit_description">
-		<text>Армейский бронекостюм создан для проведений штурмовых операций. Предоставляет великолепную защиту от пулевого и осколочного попадания, при этом не снижает подвижности солдата. Уязвим для бронебойных патронов.</text>
+		<text>Army bulletproof suit is created for carrying out storming operations. Provides an excellent source of protection from bullet and splinter fire without lowering the mobility of the soldier. Vulnerable to armor piercing bullets.</text>
 	</string>
 	<string id="mp_military_outfit_name">
-		<text>Армейский бронекостюм</text>
+		<text>Army bulletproof suit.</text>
 	</string>
 	<string id="mp_scientific_outfit_description">
-		<text>Данный комбинезон предназначен для исследовательской деятельности в Зоне. Снабжен системой дыхания с замкнутым циклом, а также встроенной системы подавления действия аномальных полей, благодаря чему великолепно защищает от аномалий. Из-за слабой защиты очень уязвим. Обладает встроенным контейнером для переноса артефактов.</text>
+		<text>This particular bodysuit is designed for carrying out research in the Zone. It has a breathing system with a closed cycle, as well as a built-in system for nullifying the activity of anomalous fields, thanks to which it protects marvelously from anomalies. Very vulnerable due to the weak protection. Has a built-in container for transporting artifacts.</text>
 	</string>
 	<string id="mp_scientific_outfit_name">
-		<text>Научный комбинезон</text>
+		<text>Scientific bodysuit</text>
        </string>
 	<string id="protection_outfit_description_m1">
-		<text>Высококачественный комбинезон изготовленный из сверхпрочных материалов на базе костюма "Монолит Научный". Эффективная защита от радиации и биологических аномалий. Стоек к химически-агрессивным средам и другим вредным для организма воздействиям. В комплект также включен ПНВ с цифровой фильтрацией сигнала и система защиты от пси-излучения.</text>
+		<text>A high-quality overall made of heavy-duty materials based on the Monolit Nauchny suit. Effective protection against radiation and biological anomalies. Resistant to chemically aggressive environments and other harmful to the body effects. The kit also includes a night visiosn device with digital signal filtering and a psi-radiation protection system.</text>
 	</string>
 	<string id="protection_outfit_name_m1">
-		<text>Комбинезон СП++</text>
+		<text>Jumpsuit overalls</text>
 	</string>
 	<string id="novice_outfit_description_m2">
-		<text>В куртку вшита кевларовая прокладка, увеличивающая защиту от пулевого и осколочного попадания.</text>
+		<text>In the jacket is sewn a Kevlar gasket, increasing protection from bullet and fragmentation.</text>
 	</string>
 	<string id="novice_outfit_name_m2">
-		<text>Кевларовая куртка</text>
+		<text>Kevlar Jacket</text>
        </string>
 	<string id="military_outfit_name_m1">
-		<text>Экзоскелет СКАТ-10</text>
+		<text>Exoskeleton SKAT-10</text>
 	</string>
 	<string id="military_outfit_description_m1">
-		<text>Прототип армейского специального бронекостюма-экзоскелета СКАТ-10. Создан на базе хорошо зарекомендовавшего себя в услових Зоны СКАТ-9М. Скорее всего производится тем же предприятием, которое производит долговские экзоскелеты, так как параметры практически идентичны.</text>
+		<text>Prototype of an army special armored suit-exoskeleton SKAT-10. It is based on the well-proven in the conditions of the Zone. Most likely it is produced by the same enterprise that produces Duty exoskeletons, since the parameters are almost identical.</text>
 	</string>
 	<string id="monolit_scientific_outfit_description">
-		<text>Модификация комбинезона "Монолит". Как и большинство творений Монолита - технология неизвестна. Установлено, что в состав входят внеземные материалы. Они более лёгкие, чем их земные аналоги и очень хорошо защищают от радиации, ускоряют метаболизм и отражают пси-излучение.</text>
+		<text>Modification of overalls &quot;Monolith&quot;. Like most Monolith creations, the technology is unknown. It is established that the structure includes extraterrestrial materials. They are lighter than their terrestrial counterparts and very well protect against radiation, accelerate metabolism and reflect psy-radiation.</text>
 	</string>
 	<string id="monolit_scientific_outfit_name">
-		<text>Комбинезон ЧАЭС</text>
+		<text>Chernobyl jumpsuit</text>
 	</string>
 	<string id="freedom_scientific_outfit_name">
-		<text>Научный костюм Свободы</text>
+		<text>The Science Suit of Liberty</text>
 	</string>
 	<string id="freedom_scientific_outfit_description">
-		<text>Производство группировки Свобода, для научных исследований в Зоне. Система защиты с замкнутым циклом, встроенная система подавления действия аномальных полей. Высокая защита от радиации. Пулевая защита все-таки недостаточна для активных боевых действий.</text>
+		<text>Production of the Freedom Group, for scientific research in the zone. Closed-loop protection system, built-in system to suppress abnormal fields. High radiation protection. Bullet protection is still not enough for active combat.</text>
 	</string>
 	<string id="killer_scientific_outfit_name">
-		<text>Научный костюм наёмников</text>
+		<text>Science suit mercenaries</text>
 	</string>
 	<string id="killer_scientific_outfit_description">
-		<text>Костюм наёмников, которые промышляют в аномальных зонах. Система защиты с замкнутым циклом, встроенная система подавления действия аномальных полей. Предоставляет неплохую защиту от пулевого и осколочного попадания, но явно недостаточную для масштабных боевых действий.</text>
+		<text>A suit of mercenaries who are in abnormal zones. Closed-loop protection system, built-in system to suppress abnormal fields. Provides good protection against bullet and shrapnel hit, but clearly insufficient for large-scale fighting.</text>
 	</string>
 	<string id="monolit_exoskeleton_name">
-		<text>Экзоскелет Монолита</text>
+		<text>Monolith exoskeleton</text>
 	</string>
 	<string id="monolit_exoskeleton_description">
-		<text>Технология создания неизвестна. В составе материала обнаружены вкрапления неизвестного металла, природа происхождения неизвестна. Удивительно малый вес и высокие ровные показатели по всем пунктам. Максимальная защита от радиации.</text>
+		<text>The technology of creation is unknown. The material contains inclusions of an unknown metal, the nature of origin is unknown. Surprisingly low weight and high even indicators on all points. Maximum protection from radiation.</text>
 	</string>
 	<string id="svoboda_exoskeleton_name">
-		<text>Экзоскелет Свободы</text>
+		<text>Freedom Exoskeleton</text>
 	</string>
 	<string id="svoboda_exoskeleton_description">
-		<text>Продукт кустарей из Свободы. Экспериментируя с разными модификациями, после многочисленных попыток им удалось создать действительно удачную конструкцию. По характеристиками сопоставим с костюмом Долга. Работы по его совершенствованию продолжаются.</text>
+		<text>The product of the artisans from Freedom. Experimenting with different modifications, after numerous attempts they managed to create a really successful design. The characteristics are comparable to the Duty suit. Work to improve it continues.</text>
 	</string>
 	<string id="killer_blue_exoskeleton_name">
-		<text>Экзоскелет наёмников</text>
+		<text>Exoskeleton of mercenaries</text>
 	</string>
 	<string id="killer_blue_exoskeleton_description">
-		<text>Экспериментальный образец военного экзоскелета западного производства. Данный экзоскелет относится к третьему поколению. Используется наёмниками. Упор сделан на боевое применение, аномальная устойчивость низкая.</text>
+		<text>An experimental sample of a Western-made military exoskeleton. This exoskeleton belongs to the third generation. Used by mercenaries. The emphasis is on combat use, abnormal stability is low.</text>
 	</string>
 	<string id="dolg_black_exoskeleton_name">
-		<text>Экзоскелет Долга</text>
+		<text>Duty Exoskeleton</text>
 	</string>
 	<string id="dolg_black_exoskeleton_description">
-		<text>Отечественная разработка одного из НИИ, специально для группировки Долг. Боевые функции преобладают, большая грузоподъёмность. Большой вес костюма однако не исключает возможность бегать в нём.</text>
+		<text>Domestic development of one of the research institutes, especially for the Duty faction. Combat functions prevail, heavy payload. The weight of the suit, however, does not exclude the possibility of running in it.</text>
 	</string>
 	<string id="nebo_exo_name">
-		<text>Экзоскелет Охотников</text>
+		<text>Exoskeleton Hunters</text>
 	</string>
 	<string id="nebo_exo_description">
-		<text>Экзоскелет превосходно защищает от различных аномальных воздействий, радиации, а также укусов и ударов. Уязвим для бронебойных патронов.</text>
+		<text>The exoskeleton perfectly protects against various abnormal effects, radiation, as well as bites and strokes. Vulnerable to armor-piercing rounds.</text>
 	</string>
 	<string id="nebo_light_outfit_name">
-		<text>Комбинезон "Охотник"</text>
+		<text>Outfit "Hunters"</text>
 	</string>
 	<string id="nebo_light_outfit_description">
-		<text>Производимый охотниками облегчённый комбинезон сталкера. Лёгкий армейский бронежилет. Способен защитить от слабого оружия. Ткань комбинезона обработана специальным составом, повышающим сопротивление аномальной активности.</text>
+		<text>The hunters' lightweight stalker jumpsuit. Light army body armor. It is able to protect against weak weapons. The fabric of the overalls is treated with a special composition that increases resistance to abnormal activity.</text>
 	</string>
 	<string id="nebo_heavy_outfit_name">
-		<text>Комбинезон "Страж охоты"</text>
+		<text>Outfit "Guardian hunt"</text>
 	</string>
 	<string id="nebo_heavy_outfit_description">
-		<text>Производимый охотниками усиленный комбинезон сталкера. Средний армейский бронежилет. Материал костюма состоит из двух слоев: специально обработанной кожи и ткани с асбестовой нитью. Даёт хорошую защиту от различных аномальных воздействий и радиации.</text>
+		<text>The reinforced stalker jumpsuit produced by hunters. Medium army body armor. The material of the suit consists of two layers: specially treated skin and fabric with asbestos floss. Gives good protection against various abnormal influences and radiation.</text>
 	</string>
 	<string id="outfit_soldier_new_name">
-		<text>Армейский костюм</text>
+		<text>Army suit</text>
 	</string>
 	<string id="outfit_soldier_new_description">
-		<text>Стандартный комплект снаряжения солдата - лёгкий армейский бронежилет, сапоги и камуфляж. Достаточно эффективно защищает от пистолетных пуль и осколков. Неэффективен против аномальных и других воздействий.</text>
+		<text>The standard set of soldier's equipment is light army body armor, boots and camouflage. Effectively enough protects against gun bullets and shrapnel. Ineffective against abnormal and other effects.</text>
 	</string>
 	<string id="dark_veteran_outfit_name">
-		<text>Кожаный плащ</text>
+		<text>Leather cloak</text>
 	</string>
 	<string id="dark_veteran_outfit_description">
-		<text>Имеет чуть большую защиту от ранений и огня, чем обычная куртка. Одежда "тёмных" ветеранов. Защита крайне недостаточна, но зато натуральная кожа.</text>
+		<text>It has a little more protection from injuries and fire than a regular jacket. Clothes of "dark" veterans. Protection is extremely insufficient, but comfortable.</text>
 	</string>
 	<string id="bandit_master_outfit_name">
-		<text>Бандитский плащ</text>
+		<text>Bandit cloak</text>
 	</string>
 	<string id="bandit_master_outfit_description">
-		<text>Сначала эти плащи были отличительной чертой ОПГ Стрелка. Теперь в таких ходят бригадиры криминала. Неплохая пулестойкость... для плаща из натуральной кожи.</text>
+		<text>At first, these cloaks were a hallmark of the Arrow OPG. Now such are the brigadiers of crime. Not a bad bullet resistance... for a cloak made of natural leather.</text>
 	</string>
 	<string id="exo_outfit_name_m2">
-		<text>Экзоскелет "NA"</text>
+		<text>Р­РєР·РѕСЃРєРµР»РµС‚ "NA"</text>
 	</string>
 	<string id="exo_outfit_description_m2">
-		<text>Экзоскелет будущего, разработанный корпорацией "New Arsenal".</text>
+		<text>Exoskeleton of the future developed by the corporation "New Arsenal".</text>
 	</string>
 	<string id="st_helm_battle">
-		<text>Шлем «Сфера М12»</text>
+		<text>Helmet В«Sphere Рњ12В»</text>
 	</string>
 	<string id="st_helm_battle_descr">
-		<text>Отделанный тканью алюминиево-титановый шлем с карманами для стальных бронеэлементов и бронемаской. Обычно поставляется в комплекте с бронежилетами класса ПС3 для спецназа. Достаточно популярен в Зоне благодаря респиратору и встроенному прибору ночного видения, а также хорошей защите головы.</text>
+		<text>A fabric-trimmed aluminum-titanium helmet with pockets for steel armored elements and an armored mask. Usually comes complete with PS3 class body armor for special forces. It is quite popular in the zone thanks to the respirator and built-in night vision device, as well as good head protection.</text>
 	</string>
 	<string id="st_helm_hardhat">
-		<text>Стальной шлем</text>
+		<text>Steel helmet</text>
 	</string>
 	<string id="st_helm_hardhat_descr">
-		<text>Стандартный армейский стальной шлем. Не обеспечивает защиту от аномалий или радиации, но способен отклонить прилетевшую по касательной пулю. Спросом в Зоне пользовался только в период первых столкновений между группировками.</text>
+		<text>A standard army steel helmet. It does not provide protection against anomalies or radiation, but is able to deflect the bullet that came by tangent. Demand in the zone was used only during the first clashes between the factions.</text>
 	</string>
 	<string id="st_helm_protective">
-		<text>Шлем «Заслон»</text>
+		<text>Helmet В«ProtectiveВ»</text>
 	</string>
 	<string id="st_helm_protective_descr">
-		<text>Лёгкий шлем с герметичным забралом, предназначенный для защиты лица от некоторых аномальных воздействий. Судя по технологии, разработан тем же оборонным НИИ, что и комбинезон «СЕВА» - предположительно, для применения в комплекте с армейскими защитными костюмами.</text>
+		<text>A lightweight helmet with an airtight visor designed to protect the face from some anomalous effects. Judging by the technology, it was developed by the same defense research institute as the SEVA jumpsuit - presumably for use complete with army protective suits.</text>
 	</string>
 	<string id="st_helm_respirator">
-		<text>Противогаз</text>
+		<text>Respirator</text>
 	</string>
 	<string id="st_helm_respirator_descr">
-		<text>Стандартный противогаз, предназначенный для фильтрации из воздуха радиоактивной пыли и отравляющих веществ. Широко используется как новичками, так и ветеранами всех группировок ввиду своей функциональной незаменимости. Не оснащён защитой от пуль, осколков и механических воздействий.</text>
+		<text>A standard gas mask designed to filter radioactive dust and poisonous substances from the air. It is widely used by both newcomers and veterans of all groups due to its functional irreplaceability. Not equipped with protection from bullets, shrapnel and mechanical influences.</text>
 	</string>
 	<string id="st_helm_tactic">
-		<text>Тактический шлем</text>
+		<text>Tactical helmet</text>
 	</string>
 	<string id="st_helm_tactic_descr">
-		<text>Западный образец тактического шлема, лишённый какой-либо маркировки. Предназначен для обеспечения командира подразделения максимальным количеством тактической информации при установке соответствующей электронной «начинки». Отличается усиленной конструкцией; кроме того, оснащён многослойной кевларовой защитой, респиратором и прибором ночного видения.</text>
+		<text>A western sample of a tactical helmet devoid of any markings. It is designed to provide the unit commander with as much tactical information as possible when installing the appropriate electronic "stuffing." It has a reinforced design; it is also equipped with multi-layered Kevlar protection, a respirator and night vision device.</text>
 	</string>
 </string_table>
